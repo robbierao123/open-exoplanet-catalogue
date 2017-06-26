@@ -1,0 +1,311 @@
+Name,Category,Attribute,OEC value,EU value,NASA value,source
+11 Com,system,Distance [parsec],88.9,110.6,,11 Com.xml
+11 Com,system,Distance errorminus,1.7,10.5,,11 Com.xml
+11 Com,system,Distance errorplus,1.7,10.5,,11 Com.xml
+11 UMi,system,Distance [parsec],122.1,119.5,,11 UMi.xml
+11 UMi,system,Distance errorminus,2.8,6.9,,11 UMi.xml
+11 UMi,system,Distance errorplus,2.8,6.9,,11 UMi.xml
+14 And,system,Distance [parsec],79.2,76.4,,14 And.xml
+14 And,system,Distance errorminus,1.7,4.1,,14 And.xml
+14 And,system,Distance errorplus,1.7,4.1,,14 And.xml
+18 Del,system,Distance [parsec],75.3,73.1,,18 Del.xml
+18 Del,system,Distance errorminus,1.8,3.5,,18 Del.xml
+18 Del,system,Distance errorplus,1.8,3.5,,18 Del.xml
+42 Dra,system,Distance [parsec],96.5,97.3,,42 Dra.xml
+42 Dra,system,Distance errorminus,1.9,5.0,,42 Dra.xml
+42 Dra,system,Distance errorplus,1.9,5.0,,42 Dra.xml
+47 UMa,system,Distance [parsec],14.063,13.97,,47 UMa.xml
+47 UMa,system,Distance errorminus,0.049,1.91,,47 UMa.xml
+47 UMa,system,Distance errorplus,0.049,1.91,,47 UMa.xml
+55 Cancri,system,Distance errorminus,0.11,0.4,,55 Cancri.xml
+55 Cancri,system,Distance errorplus,0.11,0.4,,55 Cancri.xml
+6 Lyn,system,Distance [parsec],55.8,56.9,,6 Lyn.xml
+6 Lyn,system,Distance errorminus,1.5,2.5,,6 Lyn.xml
+6 Lyn,system,Distance errorplus,1.5,2.5,,6 Lyn.xml
+70 Vir,system,Distance [parsec],18.1,22.0,,70 Vir.xml
+75 Cet,system,Distance [parsec],81.4,81.5,,75 Cet.xml
+75 Cet,system,Distance errorminus,3.0,7.51,,75 Cet.xml
+75 Cet,system,Distance errorplus,3.0,7.51,,75 Cet.xml
+81 Cet,system,Distance [parsec],92.5,97.2,,81 Cet.xml
+81 Cet,system,Distance errorminus,3.9,9.2,,81 Cet.xml
+81 Cet,system,Distance errorplus,3.9,9.2,,81 Cet.xml
+AB Pic,system,Distance [parsec],45.5,47.3,,AB Pic.xml
+AB Pic,system,Distance errorminus,1.7,1.8,,AB Pic.xml
+BD+14 4559,system,Distance [parsec],48.36,50.0,,BD+14 4559.xml
+BD+14 4559,system,Distance errorminus,2.90,4.0,,BD+14 4559.xml
+BD+14 4559,system,Distance errorplus,2.90,4.0,,BD+14 4559.xml
+BD+15 2940,system,Distance [parsec],508,585.0,,BD+15 2940.xml
+BD+15 2940,system,Distance errorminus,312,455.0,,BD+15 2940.xml
+BD+15 2940,system,Distance errorplus,312,455.0,,BD+15 2940.xml
+BD-08 2823,system,Distance [parsec],42.5,42.2,,BD-08 2823.xml
+BD-08 2823,system,Distance errorminus,2.8,2.9,,BD-08 2823.xml
+BD-08 2823,system,Distance errorplus,2.8,2.9,,BD-08 2823.xml
+BD-10 3166,system,Distance [parsec],65.19,66.0,,BD-10 3166.xml
+BD-17 63,system,Distance [parsec],35.7,34.6,,BD-17 63.xml
+BD-17 63,system,Distance errorminus,1.6,1.5,,BD-17 63.xml
+BD-17 63,system,Distance errorplus,1.6,1.5,,BD-17 63.xml
+CoRoT-25,system,Distance errorminus,25,85.0,,CoRoT-25.xml
+CoRoT-25,system,Distance errorplus,85,25.0,,CoRoT-25.xml
+CoRoT-26,system,Distance errorminus,110,205.0,,CoRoT-26.xml
+CoRoT-26,system,Distance errorplus,205,110.0,,CoRoT-26.xml
+Gliese 1214,system,Distance [parsec],14.55,13.0,,Gliese 1214.xml
+Gliese 3470,system,Distance [parsec],30.7,29.28,,Gliese 3470.xml
+HAT-P-24,system,Distance [parsec],396,306.0,,HAT-P-24.xml
+HAT-P-32,system,Distance [parsec],283,320.0,,HAT-P-32.xml
+HAT-P-32,system,Distance errorminus,5,16.0,,HAT-P-32.xml
+HAT-P-32,system,Distance errorplus,5,16.0,,HAT-P-32.xml
+HAT-P-33,system,Distance [parsec],387,419.0,,HAT-P-33.xml
+HAT-P-33,system,Distance errorminus,9,66.0,,HAT-P-33.xml
+HAT-P-33,system,Distance errorplus,9,66.0,,HAT-P-33.xml
+HAT-P-49,system,Distance errorminus,13,24.0,,HAT-P-49.xml
+HAT-P-49,system,Distance errorplus,24,13.0,,HAT-P-49.xml
+HAT-P-50,system,Distance [parsec],497,597.0,,HAT-P-50.xml
+HAT-P-51,system,Distance errorplus,15,16.0,,HAT-P-51.xml
+HAT-P-7,system,Distance errorplus,50,40.0,,HAT-P-7.xml
+HATS-3,system,Distance [parsec],556,453.0,,HATS-3.xml
+HATS-3,system,Distance errorminus,78,11.0,,HATS-3.xml
+HATS-3,system,Distance errorplus,78,11.0,,HATS-3.xml
+HATS-6,system,Distance [parsec],172.6,148.4,,HATS-6.xml
+HATS-6,system,Distance errorminus,5.5,3.3,,HATS-6.xml
+HATS-6,system,Distance errorplus,5.5,3.3,,HATS-6.xml
+HATS-9,system,Distance errorminus,30,42.0,,HATS-9.xml
+HATS-9,system,Distance errorplus,42,30.0,,HATS-9.xml
+HD 103720,system,Distance [parsec],41.58,41.6,,HD 103720.xml
+HD 103720,system,Distance errorminus,2.07,2.1,,HD 103720.xml
+HD 103720,system,Distance errorplus,2.07,2.1,,HD 103720.xml
+HD 104985,system,Distance [parsec],97.1,102.0,,HD 104985.xml
+HD 113538,system,Distance [parsec],15.87,15.8,,HD 113538.xml
+HD 113538,system,Distance errorminus,0.34,0.4,,HD 113538.xml
+HD 113538,system,Distance errorplus,0.34,0.4,,HD 113538.xml
+HD 114386,system,Distance [parsec],28.04,28.0,,HD 114386.xml
+HD 11506,system,Distance [parsec],51.7,53.82,,HD 11506.xml
+HD 116029,system,Distance [parsec],123,103.5,,HD 116029.xml
+HD 116029,system,Distance [parsec],123,123.2,,HD 116029.xml
+HD 120084,system,Distance [parsec],98,97.7,,HD 120084.xml
+HD 126614,system,Distance [parsec],72.6,72.4,,HD 126614.xml
+HD 126614,system,Distance errorminus,5.1,5.3,,HD 126614.xml
+HD 126614,system,Distance errorplus,5.1,5.3,,HD 126614.xml
+HD 13908,system,Distance [parsec],71.3,71.2,,HD 13908.xml
+HD 13931,system,Distance errorminus,1.3,1.4,,HD 13931.xml
+HD 13931,system,Distance errorplus,1.3,1.4,,HD 13931.xml
+HD 139357,system,Distance [parsec],118.2,121.4,,HD 139357.xml
+HD 139357,system,Distance errorminus,4.4,8.2,,HD 139357.xml
+HD 139357,system,Distance errorplus,4.4,8.2,,HD 139357.xml
+HD 142245,system,Distance [parsec],109,109.5,,HD 142245.xml
+HD 145377,system,Distance [parsec],55.0,57.7,,HD 145377.xml
+HD 145377,system,Distance errorminus,2.8,3.0,,HD 145377.xml
+HD 145377,system,Distance errorplus,2.8,3.0,,HD 145377.xml
+HD 153950,system,Distance [parsec],49.5,49.6,,HD 153950.xml
+HD 153950,system,Distance errorminus,1.7,1.8,,HD 153950.xml
+HD 153950,system,Distance errorplus,1.7,1.8,,HD 153950.xml
+HD 158038,system,Distance [parsec],103,103.6,,HD 158038.xml
+HD 164922,system,Distance [parsec],21.93,22.13,,HD 164922.xml
+HD 167042,system,Distance [parsec],50.23,50.0,,HD 167042.xml
+HD 177830,system,Distance errorminus,2.2,2.8,,HD 177830.xml
+HD 177830,system,Distance errorplus,2.2,2.8,,HD 177830.xml
+HD 183263,system,Distance [parsec],55.1,53.0,,HD 183263.xml
+HD 185269,system,Distance [parsec],50.28,47.0,,HD 185269.xml
+HD 185269,system,Distance errorminus,1.42,1.0,,HD 185269.xml
+HD 185269,system,Distance errorplus,1.42,1.0,,HD 185269.xml
+HD 187123,system,Distance [parsec],48.3,50.0,,HD 187123.xml
+HD 192699,system,Distance [parsec],65.6,67.0,,HD 192699.xml
+HD 196050,system,Distance [parsec],46.93,46.9,,HD 196050.xml
+HD 197037,system,Distance [parsec],32.3,33.0,,HD 197037.xml
+HD 20782,system,Distance [parsec],35.49,35.4,,HD 20782.xml
+HD 20782,system,Distance errorminus,0.36,1.0,,HD 20782.xml
+HD 20782,system,Distance errorplus,0.36,1.0,,HD 20782.xml
+HD 20782,system,Distance [parsec],35.49,36.02,,HD 20782.xml
+HD 20782,system,Distance errorminus,0.36,1.0,,HD 20782.xml
+HD 20782,system,Distance errorplus,0.36,1.0,,HD 20782.xml
+HD 20868,system,Distance [parsec],46.2,48.9,,HD 20868.xml
+HD 20868,system,Distance errorminus,2.9,3.5,,HD 20868.xml
+HD 20868,system,Distance errorplus,2.9,3.5,,HD 20868.xml
+HD 210702,system,Distance [parsec],54.9,56.0,,HD 210702.xml
+HD 210702,system,Distance errorminus,1.2,2.3,,HD 210702.xml
+HD 210702,system,Distance errorplus,1.2,2.3,,HD 210702.xml
+HD 217107,system,Distance [parsec],19.86,19.72,,HD 217107.xml
+HD 217107,system,Distance errorminus,0.15,0.3,,HD 217107.xml
+HD 217107,system,Distance errorplus,0.15,0.3,,HD 217107.xml
+HD 217786,system,Distance [parsec],54.9,54.8,,HD 217786.xml
+HD 217786,system,Distance errorminus,2.3,2.0,,HD 217786.xml
+HD 217786,system,Distance errorplus,2.3,2.0,,HD 217786.xml
+HD 218566,system,Distance [parsec],28.55,29.94,,HD 218566.xml
+HD 218566,system,Distance errorminus,0.93,1.11,,HD 218566.xml
+HD 218566,system,Distance errorplus,0.93,1.11,,HD 218566.xml
+HD 219077,system,Distance [parsec],29,29.35,,HD 219077.xml
+HD 219134,system,Distance [parsec],6.546,6.55,,HD 219134.xml
+HD 24040,system,Distance [parsec],46.6,46.51,,HD 24040.xml
+HD 24040,system,Distance errorminus,1.6,2.3,,HD 24040.xml
+HD 24040,system,Distance errorplus,1.6,2.3,,HD 24040.xml
+HD 285507,system,Distance [parsec],41.339,41.3,,HD 285507.xml
+HD 2952,system,Distance [parsec],115,115.2,,HD 2952.xml
+HD 30669,system,Distance [parsec],57.1,57.0,,HD 30669.xml
+HD 30856,system,Distance [parsec],118,118.1,,HD 30856.xml
+HD 31253,system,Distance [parsec],50.3,53.82,,HD 31253.xml
+HD 31253,system,Distance errorminus,1.6,3.45,,HD 31253.xml
+HD 31253,system,Distance errorplus,1.6,3.45,,HD 31253.xml
+HD 32518,system,Distance [parsec],120.6,117.4,,HD 32518.xml
+HD 32518,system,Distance errorminus,8.4,10.7,,HD 32518.xml
+HD 32518,system,Distance errorplus,8.4,10.7,,HD 32518.xml
+HD 34445,system,Distance errorminus,1.4,1.5,,HD 34445.xml
+HD 34445,system,Distance errorplus,1.4,1.5,,HD 34445.xml
+HD 37605,system,Distance [parsec],42.9,44.0,,HD 37605.xml
+HD 4203,system,Distance [parsec],77.82,77.5,,HD 4203.xml
+HD 52265,system,Distance [parsec],28.1,28.0,,HD 52265.xml
+HD 5319,system,Distance [parsec],114,100.0,,HD 5319.xml
+HD 5319,system,Distance errorminus,11,10.0,,HD 5319.xml
+HD 5319,system,Distance errorplus,11,10.0,,HD 5319.xml
+HD 5608,system,Distance [parsec],56.4,58.2,,HD 5608.xml
+HD 5608,system,Distance errorminus,1.3,2.8,,HD 5608.xml
+HD 5608,system,Distance errorplus,1.3,2.8,,HD 5608.xml
+HD 564,system,Distance [parsec],53.6,54.0,,HD 564.xml
+HD 6434,system,Distance [parsec],41.4,40.32,,HD 6434.xml
+HD 66428,system,Distance [parsec],54.9,55.0,,HD 66428.xml
+HD 66428,system,Distance errorminus,3.2,3.8,,HD 66428.xml
+HD 66428,system,Distance errorplus,3.2,3.8,,HD 66428.xml
+HD 73267,system,Distance [parsec],54.2,54.91,,HD 73267.xml
+HD 73267,system,Distance errorminus,2.7,3.0,,HD 73267.xml
+HD 73267,system,Distance errorplus,2.7,3.0,,HD 73267.xml
+HD 74156,system,Distance [parsec],64.4,64.56,,HD 74156.xml
+HD 74156,system,Distance errorminus,2.2,4.9,,HD 74156.xml
+HD 74156,system,Distance errorplus,2.2,4.9,,HD 74156.xml
+HD 7449,system,Distance [parsec],38.9,39.0,,HD 7449.xml
+HD 7449,system,Distance errorminus,0.71,1.0,,HD 7449.xml
+HD 7449,system,Distance errorplus,0.74,1.0,,HD 7449.xml
+HD 7924,system,Distance [parsec],16.82,16.8,,HD 7924.xml
+HD 7924,system,Distance errorminus,0.13,0.1,,HD 7924.xml
+HD 7924,system,Distance errorplus,0.13,0.1,,HD 7924.xml
+HD 81688,system,Distance [parsec],85.8,88.26,,HD 81688.xml
+HD 81688,system,Distance errorminus,2.9,8.0,,HD 81688.xml
+HD 81688,system,Distance errorplus,2.9,8.0,,HD 81688.xml
+HD 8673,system,Distance [parsec],36.1,38.25,,HD 8673.xml
+HD 8673,system,Distance errorminus,0.5,1.2,,HD 8673.xml
+HD 8673,system,Distance errorplus,0.5,1.2,,HD 8673.xml
+HD 95086,system,Distance [parsec],90.27,90.4,,HD 95086.xml
+HD 95127,system,Distance [parsec],327,300.0,,HD 95127.xml
+HD 95127,system,Distance errorminus,106,100.0,,HD 95127.xml
+HD 95127,system,Distance errorplus,106,100.0,,HD 95127.xml
+HD 96127,system,Distance [parsec],483,540.0,,HD 96127.xml
+HD 96127,system,Distance errorminus,135,26.0,,HD 96127.xml
+HD 96127,system,Distance errorplus,135,26.0,,HD 96127.xml
+HD 97658,system,Distance [parsec],21.11,21.1,,HD 97658.xml
+HD 97658,system,Distance errorminus,0.34,0.33,,HD 97658.xml
+HD 97658,system,Distance errorplus,0.34,0.33,,HD 97658.xml
+HIP 107773,system,Distance [parsec],104,106.0,,HIP 107773.xml
+HIP 65891,system,Distance errorminus,11,1.0,,HIP 65891.xml
+HIP 65891,system,Distance errorplus,11,1.0,,HIP 65891.xml
+HIP 67851,system,Distance [parsec],66.0,65.96,,HIP 67851.xml
+HIP 97233,system,Distance [parsec],106,106.5,,HIP 97233.xml
+HR 8799,system,Distance errorminus,1.09,1.0,,HR 8799.xml
+HR 8799,system,Distance errorplus,1.09,1.0,,HR 8799.xml
+EPIC 201367065,system,Distance [parsec],45,42.0,,EPIC 201367065.xml
+EPIC 201367065,system,Distance errorminus,4,2.0,,EPIC 201367065.xml
+EPIC 201367065,system,Distance errorplus,3,2.0,,EPIC 201367065.xml
+EPIC 201465501,system,Distance [parsec],110,66.0,,EPIC 201465501.xml
+EPIC 201465501,system,Distance errorminus,12,7.0,,EPIC 201465501.xml
+EPIC 201465501,system,Distance errorplus,12,11.0,,EPIC 201465501.xml
+KELT-10,system,Distance [parsec],183,263.0,,KELT-10.xml
+KELT-15,system,Distance [parsec],291,201.0,,KELT-15.xml
+KELT-15,system,Distance errorminus,30,19.0,,KELT-15.xml
+KELT-15,system,Distance errorplus,30,19.0,,KELT-15.xml
+Kepler-337,system,Distance [parsec],674.39,1100.0,,Kepler-337.xml
+Kepler-341,system,Distance [parsec],1039.88,880.0,,Kepler-341.xml
+Kepler-355,system,Distance [parsec],1432.65,585.0,,Kepler-355.xml
+KOI-368,system,Distance [parsec],1200,1070.0,,KOI-368.xml
+KOI-368,system,Distance errorminus,0.1,50.0,,KOI-368.xml
+KOI-368,system,Distance errorplus,0.1,50.0,,KOI-368.xml
+KOI-4427,system,Distance errorminus,39,32.0,,KOI-4427.xml
+KOI-4427,system,Distance errorplus,32,39.0,,KOI-4427.xml
+KOI-830,system,Distance [parsec],720,730.0,,KOI-830.xml
+Kepler-100,system,Distance [parsec],296.6,310.34,,Kepler-100.xml
+Kepler-103,system,Distance [parsec],476.8,473.56,,Kepler-103.xml
+Kepler-109,system,Distance [parsec],468.1,464.73,,Kepler-109.xml
+Kepler-21,system,Distance [parsec],112.9,108.0,,Kepler-21.xml
+Kepler-21,system,Distance errorminus,7.4,19.0,,Kepler-21.xml
+Kepler-21,system,Distance errorplus,7.4,19.0,,Kepler-21.xml
+Kepler-22,system,Distance [parsec],180,190.0,,Kepler-22.xml
+Kepler-390,system,Distance [parsec],429.55,1200.0,,Kepler-390.xml
+Kepler-400,system,Distance [parsec],716.62,2700.0,,Kepler-400.xml
+Kepler-409,system,Distance [parsec],69.2,66.8,,Kepler-409.xml
+Kepler-41,system,Distance [parsec],771.43,730.0,,Kepler-41.xml
+Kepler-412,system,Distance errorminus,36,0.036,,Kepler-412.xml
+Kepler-412,system,Distance errorplus,36,0.036,,Kepler-412.xml
+Kepler-436,system,Distance errorplus,34,30.0,,Kepler-436.xml
+Kepler-437,system,Distance errorminus,21,24.0,,Kepler-437.xml
+Kepler-438,system,Distance errorplus,20,23.0,,Kepler-438.xml
+Kepler-439,system,Distance errorminus,38,66.0,,Kepler-439.xml
+Kepler-439,system,Distance errorplus,66,38.0,,Kepler-439.xml
+Kepler-440,system,Distance errorminus,46,16.0,,Kepler-440.xml
+Kepler-440,system,Distance errorplus,16,46.0,,Kepler-440.xml
+Kepler-441,system,Distance errorminus,48,28.0,,Kepler-441.xml
+Kepler-441,system,Distance errorplus,28,48.0,,Kepler-441.xml
+Kepler-442,system,Distance errorplus,19,22.0,,Kepler-442.xml
+Kepler-443,system,Distance errorminus,38,45.0,,Kepler-443.xml
+Kepler-443,system,Distance errorplus,45,38.0,,Kepler-443.xml
+Kepler-109,system,Distance [parsec],468.1,426.0,,Kepler-109.xml
+Kepler-46,system,Distance [parsec],855,857.0,,Kepler-46.xml
+Kepler-65,system,Distance [parsec],246.65,312.43,,Kepler-65.xml
+Kepler-183,system,Distance [parsec],1092.31,1180.0,,Kepler-183.xml
+Kepler-75,system,Distance errorminus,250,160.0,,Kepler-75.xml
+Kepler-75,system,Distance errorplus,160,250.0,,Kepler-75.xml
+MOA-2008-BLG-379L,system,Distance [parsec],3300,3600.0,,MOA-2008-BLG-379L.xml
+MOA-2008-BLG-379L,system,Distance errorminus,1200,1300.0,,MOA-2008-BLG-379L.xml
+MOA-2010-BLG-353L,system,Distance [parsec],7170,6430.0,,MOA-2010-BLG-353L.xml
+MOA-2010-BLG-353L,system,Distance errorminus,1120,1150.0,,MOA-2010-BLG-353L.xml
+MOA-2010-BLG-353L,system,Distance errorplus,870,1150.0,,MOA-2010-BLG-353L.xml
+MOA-2011-BLG-262L,system,Distance [parsec],7000,7350.0,,MOA-2011-BLG-262L.xml
+MOA-2011-BLG-262L,system,Distance errorminus,1000,350.0,,MOA-2011-BLG-262L.xml
+MOA-2011-BLG-262L,system,Distance errorplus,900,350.0,,MOA-2011-BLG-262L.xml
+MOA-2011-BLG-322,system,Distance errorminus,910,970.0,,MOA-2011-BLG-322.xml
+MOA-2011-BLG-322,system,Distance errorplus,970,910.0,,MOA-2011-BLG-322.xml
+OGLE-2011-BLG-0265L,system,Distance [parsec],3500,4380.0,,OGLE-2011-BLG-0265L.xml
+OGLE-2011-BLG-0265L,system,Distance errorminus,500,510.0,,OGLE-2011-BLG-0265L.xml
+OGLE-2011-BLG-0265L,system,Distance errorplus,500,450.0,,OGLE-2011-BLG-0265L.xml
+OGLE-2012-BLG-0026L,system,Distance [parsec],4019,4080.0,,OGLE-2012-BLG-0026L.xml
+OGLE-2012-BLG-0026L,system,Distance errorminus,380,300.0,,OGLE-2012-BLG-0026L.xml
+OGLE-2012-BLG-0026L,system,Distance errorplus,380,300.0,,OGLE-2012-BLG-0026L.xml
+OGLE-2012-BLG-0406L,system,Distance [parsec],5100,4970.0,,OGLE-2012-BLG-0406L.xml
+OGLE-2012-BLG-0406L,system,Distance errorminus,1200,290.0,,OGLE-2012-BLG-0406L.xml
+OGLE-2012-BLG-0406L,system,Distance errorplus,1200,290.0,,OGLE-2012-BLG-0406L.xml
+OGLE-2013-BLG-0102L,system,Distance [parsec],3040,3020.0,,OGLE-2013-BLG-0102L.xml
+OGLE-2013-BLG-0102L,system,Distance errorminus,310,210.0,,OGLE-2013-BLG-0102L.xml
+OGLE-2013-BLG-0102L,system,Distance errorplus,310,210.0,,OGLE-2013-BLG-0102L.xml
+OGLE-2015-BLG-0966L,system,Distance [parsec],3300,2900.0,,OGLE-2015-BLG-0966L.xml
+PSR B1620-26,system,Distance [parsec],1800,3800.0,,PSR B1620-26.xml
+Pr0201,system,Distance [parsec],177,170.0,,Pr0201.xml
+Pr0211,system,Distance [parsec],177,170.0,,Pr0211.xml
+11 Com,system,Distance errorplus,1.7,135.0,,11 Com.xml
+TrES-2,system,Distance [parsec],213,220.0,,TrES-2.xml
+TrES-2,system,Distance errorminus,11,10.0,,TrES-2.xml
+TrES-2,system,Distance errorplus,11,10.0,,TrES-2.xml
+TrES-4,system,Distance [parsec],485,479.0,,TrES-4.xml
+WASP-108,system,Distance errorminus,15,0.115,,WASP-108.xml
+WASP-108,system,Distance errorplus,15,0.115,,WASP-108.xml
+WASP-13,system,Distance [parsec],155,156.0,,WASP-13.xml
+WASP-133,system,Distance [parsec],547,457.0,,WASP-133.xml
+WASP-2,system,Distance [parsec],165.8,144.0,,WASP-2.xml
+WASP-24,system,Distance [parsec],330,332.5,,WASP-24.xml
+WASP-3,system,Distance [parsec],220,223.0,,WASP-3.xml
+WASP-84,system,Distance [parsec],125,120.0,,WASP-84.xml
+WASP-84,system,Distance errorminus,20,50.0,,WASP-84.xml
+WASP-84,system,Distance errorplus,20,50.0,,WASP-84.xml
+Wolf 1061,system,Distance [parsec],4.2922,4.29,,Wolf 1061.xml
+alf Ari,system,Distance [parsec],20.18,20.2,,alf Ari.xml
+eps Tau,system,Distance [parsec],44.96,45.0,,eps Tau.xml
+eta Cet,system,Distance [parsec],37.99,38.0,,eta Cet.xml
+gamma Cephei,system,Distance [parsec],14.102,13.79,,gamma Cephei.xml
+kappa CrB,system,Distance [parsec],30.50,31.1,,kappa CrB.xml
+kappa CrB,system,Distance errorminus,0.20,0.6,,kappa CrB.xml
+kappa CrB,system,Distance errorplus,0.20,0.6,,kappa CrB.xml
+nu Oph,system,Distance [parsec],46.21,46.8,,nu Oph.xml
+nu Oph,system,Distance errorminus,0.56,1.8,,nu Oph.xml
+nu Oph,system,Distance errorplus,0.56,1.8,,nu Oph.xml
+Omega Serpentis,system,Distance [parsec],83.8,80.6,,Omega Serpentis.xml
+omi CrB,system,Distance [parsec],82.8,84.0,,omi CrB.xml
+omi CrB,system,Distance errorminus,3.0,5.2,,omi CrB.xml
+omi CrB,system,Distance errorplus,3.0,5.2,,omi CrB.xml
+omi UMa,system,Distance [parsec],54.91,56.3,,omi UMa.xml
+omi UMa,system,Distance errorminus,0.48,2.1,,omi UMa.xml
+omi UMa,system,Distance errorplus,0.48,2.1,,omi UMa.xml
+tau Boo,system,Distance [parsec],15.62,15.6,,tau Boo.xml
+tau Gem,system,Distance errorminus,2.4,2.5,,tau Gem.xml

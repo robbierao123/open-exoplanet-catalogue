@@ -1,0 +1,3 @@
+Name,Category,Attribute,OEC value,EU value,NASA value,source
+11 Com,system,Distance [parsec],88.9,110.6,,11 Com.xml,23
+11 Com,system,Distance errorminus,1.7,10.5,,11 Com.xml,23

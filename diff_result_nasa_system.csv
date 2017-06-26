@@ -1,0 +1,1515 @@
+Name,Category,Attribute,OEC value,EU value,NASA value,source
+Kepler-139,system,Declination,+43 53 21,,+43 53 21.7,Kepler-139.xml
+Kepler-140,system,Right ascension,19 09 28,,19 09 28.67,Kepler-140.xml
+Kepler-140,system,Declination,+46 46 05,,+46 46 05.6,Kepler-140.xml
+Kepler-142,system,Right ascension,19 40 28,,19 40 28.54,Kepler-142.xml
+Kepler-142,system,Declination,+48 28 52,,+48 28 52.6,Kepler-142.xml
+Kepler-144,system,Right ascension,18 47 39,,18 47 39.76,Kepler-144.xml
+Kepler-144,system,Declination,+42 46 31,,+42 46 31.8,Kepler-144.xml
+Kepler-1450,system,Right ascension,19 38 13,,19 25 33.06,Kepler-1450.xml
+Kepler-1450,system,Declination,+45 04 53,,+44 31 44.8,Kepler-1450.xml
+Kepler-146,system,Right ascension,19 36 26,,19 36 26.58,Kepler-146.xml
+Kepler-146,system,Declination,+38 42 36,,+38 42 36.8,Kepler-146.xml
+Kepler-147,system,Declination,+39 05 13,,+39 05 13.9,Kepler-147.xml
+Kepler-148,system,Right ascension,19 19 08,,19 19 08.69,Kepler-148.xml
+Kepler-148,system,Declination,+46 51 31,,+46 51 31.6,Kepler-148.xml
+Kepler-149,system,Right ascension,19 03 24,,19 03 24.88,Kepler-149.xml
+Kepler-149,system,Declination,+38 23 02,,+38 23 02.8,Kepler-149.xml
+Kepler-151,system,Declination,+41 01 23,,+41 01 23.6,Kepler-151.xml
+HAT-P-46,system,Distance errorminus,29,,-29.00,HAT-P-46.xml
+HAT-P-54,system,Declination,-25 28 57,,+25 28 57.1,HAT-P-54.xml
+HAT-P-54,system,Distance errorminus,3.5,,-3.50,HAT-P-54.xml
+HATS-2,system,Right ascension,11 46 57.370,,11 46 57.38,HATS-2.xml
+HATS-2,system,Declination,-22 21 46.82,,-22 33 46.8,HATS-2.xml
+HATS-3,system,Right ascension,20 49 59,,20 49 49.79,HATS-3.xml
+HATS-3,system,Distance [parsec],556,,453.00,HATS-3.xml
+HATS-3,system,Distance errorminus,78,,-11.00,HATS-3.xml
+HATS-3,system,Distance errorplus,78,,11.00,HATS-3.xml
+HATS-5,system,Distance errorminus,8,,-8.00,HATS-5.xml
+HATS-6,system,Distance [parsec],172.6,,148.40,HATS-6.xml
+HATS-6,system,Distance errorminus,5.5,,-3.30,HATS-6.xml
+HATS-6,system,Distance errorplus,5.5,,3.30,HATS-6.xml
+HD 142,system,Declination,-49 04 30,,-49 04 30.7,HD 142.xml
+HD 142,system,Distance [parsec],20.6,,25.64,HD 142.xml
+HD 1502,system,Distance [parsec],159,,167.50,HD 1502.xml
+HD 1666,system,Distance [parsec],110.6,,110.62,HD 1666.xml
+HD 1690,system,Distance [parsec],319,,7.01,HD 1690.xml
+HD 2039,system,Distance [parsec],89.8,,89.85,HD 2039.xml
+HD 2638,system,Right ascension,00 29 16.10949,,00 29 59.87,HD 2638.xml
+HD 2638,system,Declination,-05 54 37.7582,,-05 45 50.4,HD 2638.xml
+HD 3651,system,Right ascension,00 39 21,,00 39 21.81,HD 3651.xml
+HD 3651,system,Declination,+21 15 01,,+21 15 01.7,HD 3651.xml
+HD 3651,system,Distance [parsec],11,,11.10,HD 3651.xml
+HD 4113,system,Declination,-37 58 57,,-37 58 57.5,HD 4113.xml
+HD 4113,system,Distance [parsec],44,,44.05,HD 4113.xml
+HD 4203,system,Distance errorminus,8.53,,-8.53,HD 4203.xml
+HD 4208,system,Right ascension,00 44 26,,00 44 26.65,HD 4208.xml
+HD 4208,system,Distance [parsec],33.9,,32.70,HD 4208.xml
+HD 4308,system,Distance [parsec],21.9,,21.85,HD 4308.xml
+HD 4732,system,Right ascension,00 49 13,,00 49 13.95,HD 4732.xml
+HD 5319,system,Right ascension,00 55 01.400,,00 55 01.40,HD 5319.xml
+HD 5319,system,Distance errorminus,11,,-11.00,HD 5319.xml
+HD 5608,system,Distance [parsec],56.4,,58.17,HD 5608.xml
+HD 5608,system,Distance errorminus,1.3,,-2.95,HD 5608.xml
+HD 5608,system,Distance errorplus,1.3,,2.68,HD 5608.xml
+HD 5891,system,Right ascension,01 00 59,,01 00 33.19,HD 5891.xml
+HD 5891,system,Declination,+20 17 56,,+20 17 32.9,HD 5891.xml
+HD 5891,system,Distance [parsec],251,,150.60,HD 5891.xml
+HD 6434,system,Distance [parsec],41.4,,40.32,HD 6434.xml
+HD 6434,system,Distance errorminus,1.03,,-1.50,HD 6434.xml
+HD 6434,system,Distance errorplus,1.03,,1.40,HD 6434.xml
+HD 7199,system,Distance [parsec],36,,35.88,HD 7199.xml
+HD 103197,system,Distance [parsec],49.3,,49.33,HD 103197.xml
+HD 103720,system,Right ascension,11 56 41.18534,,11 56 41.18,HD 103720.xml
+HD 103720,system,Distance [parsec],41.58,,41.60,HD 103720.xml
+HD 104067,system,Distance [parsec],20.8,,20.82,HD 104067.xml
+HD 104985,system,Distance [parsec],97.1,,102.04,HD 104985.xml
+HD 104985,system,Distance errorminus,2.4,,-5.72,HD 104985.xml
+HD 104985,system,Distance errorplus,2.4,,5.14,HD 104985.xml
+HD 106270,system,Declination,-09 30 47,,-09 30 48.2,HD 106270.xml
+HD 106270,system,Distance [parsec],84.9,,87.87,HD 106270.xml
+HD 106515 A,system,Distance [parsec],35.2,,36.36,HD 106515 A.xml
+HD 106906,system,Distance [parsec],92,,91.83,HD 106906.xml
+HD 106906,system,Distance errorminus,6,,-8.27,HD 106906.xml
+HD 106906,system,Distance errorplus,6,,7.01,HD 106906.xml
+HD 108147,system,Declination,-64 01 19,,-64 01 19.5,HD 108147.xml
+HD 108147,system,Distance [parsec],38.57,,38.56,HD 108147.xml
+HD 108874,system,Right ascension,12 30 26,,12 30 26.88,HD 108874.xml
+HD 109271,system,Right ascension,12 33 35,,12 33 35.56,HD 109271.xml
+HD 109271,system,Declination,-11 37 18,,-11 37 18.7,HD 109271.xml
+HD 109271,system,Distance [parsec],62,,56.92,HD 109271.xml
+HD 109749,system,Declination,-40 48 43,,-40 48 43.6,HD 109749.xml
+HD 109749,system,Distance [parsec],59,,59.03,HD 109749.xml
+HD 111232,system,Right ascension,12 48 51,,12 48 51.75,HD 111232.xml
+HD 111232,system,Distance [parsec],29,,28.88,HD 111232.xml
+HD 113538,system,Distance [parsec],15.87,,15.90,HD 113538.xml
+HD 114386,system,Right ascension,13 10 39,,13 10 39.82,HD 114386.xml
+HD 114762,system,Right ascension,13 12 19,,13 12 19.74,HD 114762.xml
+HD 114762,system,Declination,+17 31 01,,+17 31 01.6,HD 114762.xml
+HD 114762,system,Distance [parsec],39.46,,40.57,HD 114762.xml
+HD 116029,system,Right ascension,13 20 39,,13 20 39.54,HD 116029.xml
+HD 116029,system,Distance [parsec],123,,110.62,HD 116029.xml
+HD 117207,system,Declination,-35 34 15,,-35 34 15.6,HD 117207.xml
+HD 117207,system,Distance [parsec],33,,33.01,HD 117207.xml
+HD 120084,system,Declination,+78 03 51,,+78 03 52.0,HD 120084.xml
+HD 120084,system,Distance [parsec],98,,97.66,HD 120084.xml
+HD 125612,system,Declination,-17 28 53,,-17 28 53.5,HD 125612.xml
+HD 125612,system,Distance [parsec],52.82,,52.83,HD 125612.xml
+Kepler-20,system,Right ascension,19 10 47,,19 10 47.52,Kepler-20.xml
+Kepler-21,system,Distance [parsec],112.9,,113.00,Kepler-21.xml
+Kepler-21,system,Distance errorminus,7.4,,-7.00,Kepler-21.xml
+Kepler-21,system,Distance errorplus,7.4,,7.00,Kepler-21.xml
+Kepler-22,system,Distance [parsec],180,,190.00,Kepler-22.xml
+Kepler-23,system,Right ascension,19 36 52,,19 36 52.54,Kepler-23.xml
+Kepler-23,system,Distance [parsec],864.68,,800.00,Kepler-23.xml
+Kepler-24,system,Declination,+38 20 37,,+38 20 37.5,Kepler-24.xml
+Kepler-24,system,Distance [parsec],1462.04,,1200.00,Kepler-24.xml
+Kepler-25,system,Declination,+38 20 37,,+39 29 16.4,Kepler-25.xml
+Kepler-26,system,Right ascension,18 59 45,,18 59 45.84,Kepler-26.xml
+Kepler-26,system,Declination,+46 33 59,,+46 33 59.5,Kepler-26.xml
+Kepler-27,system,Right ascension,19 28 56,,19 28 56.82,Kepler-27.xml
+Kepler-28,system,Right ascension,19 28 32,,19 28 32.89,Kepler-28.xml
+Kepler-28,system,Declination,+42 25 45,,+42 25 45.9,Kepler-28.xml
+Kepler-29,system,Right ascension,19 53 23,,19 53 23.60,Kepler-29.xml
+Kepler-29,system,Distance [parsec],1246,,1400.00,Kepler-29.xml
+Kepler-300,system,Right ascension,19 41 09,,19 01 08.07,Kepler-300.xml
+Kepler-300,system,Declination,+48 35 58,,+38 56 50.2,Kepler-300.xml
+Kepler-300,system,Distance [parsec],753.63,,1400.00,Kepler-300.xml
+Kepler-31,system,Right ascension,19 36 05,,19 36 05.52,Kepler-31.xml
+Kepler-31,system,Distance [parsec],1790.60,,2100.00,Kepler-31.xml
+Kepler-32,system,Distance [parsec],399,,303.00,Kepler-32.xml
+Kepler-33,system,Right ascension,19 16 18,,19 16 18.61,Kepler-33.xml
+Kepler-33,system,Declination,+46 00 18,,+46 00 18.8,Kepler-33.xml
+HIP 79431,system,Distance [parsec],14.4,,14.90,HIP 79431.xml
+HIP 91258,system,Distance [parsec],44.9,,44.46,HIP 91258.xml
+HIP 91258,system,Distance errorminus,1.3,,-1.47,HIP 91258.xml
+HIP 91258,system,Distance errorplus,1.3,,1.38,HIP 91258.xml
+HIP 97233,system,Distance [parsec],106,,106.50,HIP 97233.xml
+HIP 116454,system,Distance errorminus,5.4,,-5.40,HIP 116454.xml
+HR 810,system,Right ascension,02 42 31,,02 42 33.47,HR 810.xml
+HR 810,system,Declination,-50 48 12,,-50 48 01.1,HR 810.xml
+HR 810,system,Distance [parsec],17.17,,17.24,HR 810.xml
+HR 8799,system,Distance errorminus,1.09,,-1.10,HR 8799.xml
+HR 8799,system,Distance errorplus,1.09,,1.10,HR 8799.xml
+EPIC 201367065,system,Distance [parsec],45,,42.00,EPIC 201367065.xml
+EPIC 201367065,system,Distance errorminus,4,,-2.00,EPIC 201367065.xml
+EPIC 201367065,system,Distance errorplus,3,,2.00,EPIC 201367065.xml
+KELT-10,system,Right ascension,18 58 11.601,,00 01 26.91,KELT-10.xml
+KELT-10,system,Declination,-47 00 11.68,,+39 23 01.7,KELT-10.xml
+KELT-10,system,Distance [parsec],183,,262.00,KELT-10.xml
+KELT-10,system,Distance errorminus,14,,-14.00,KELT-10.xml
+KELT-6,system,Distance errorminus,8,,-8.00,KELT-6.xml
+TrES-2,system,Distance errorminus,11,,-11.00,TrES-2.xml
+HAT-P-7,system,Distance errorminus,40,,-40.00,HAT-P-7.xml
+Kepler-9,system,Right ascension,19 02 17,,19 02 17.76,Kepler-9.xml
+Kepler-10,system,Distance errorminus,27,,-27.00,Kepler-10.xml
+Kepler-11,system,Right ascension,19 48 27,,19 48 27.63,Kepler-11.xml
+Kepler-11,system,Distance [parsec],613.20279,,613.00,Kepler-11.xml
+Kepler-111,system,Right ascension,19 26 36,,19 07 53.09,Kepler-111.xml
+Kepler-111,system,Declination,+44 41 17,,+46 52 06.1,Kepler-111.xml
+Kepler-16,system,Distance [parsec],60,,61.00,Kepler-16.xml
+Kepler-34,system,Distance [parsec],1500,,1499.00,Kepler-34.xml
+Kepler-35,system,Distance errorminus,43,,-43.00,Kepler-35.xml
+Kepler-36,system,Declination,+49 13 54,,+49 13 54.6,Kepler-36.xml
+Kepler-36,system,Distance [parsec],436.937,,470.00,Kepler-36.xml
+Kepler-38,system,Distance [parsec],3500,,600.00,Kepler-38.xml
+Kepler-390,system,Right ascension,19 26 30,,19 47 50.46,Kepler-390.xml
+Kepler-390,system,Declination,+41 12 30,,+46 02 03.5,Kepler-390.xml
+Kepler-390,system,Distance [parsec],429.55,,1200.00,Kepler-390.xml
+Kepler-41,system,Declination,+48 58 54,,+45 58 53.9,Kepler-41.xml
+Kepler-41,system,Distance [parsec],771.43,,770.00,Kepler-41.xml
+Kepler-42,system,Right ascension,19 28 52,,19 28 52.57,Kepler-42.xml
+Kepler-42,system,Declination,+43 37 09,,+44 37 09.0,Kepler-42.xml
+Kepler-44,system,Distance errorminus,300,,-300.00,Kepler-44.xml
+Kepler-45,system,Distance errorminus,33,,-33.00,Kepler-45.xml
+Kepler-47,system,Right ascension,19 41 11,,19 41 11.50,Kepler-47.xml
+Kepler-47,system,Declination,+46 55 13,,+46 55 13.7,Kepler-47.xml
+Kepler-47,system,Distance [parsec],1189,,1500.00,Kepler-47.xml
+Kepler-49,system,Right ascension,19 29 10,,19 29 10.70,Kepler-49.xml
+Kepler-52,system,Declination,+49 58 32,,+49 58 32.7,Kepler-52.xml
+Kepler-53,system,Right ascension,19 21 50,,19 21 50.83,Kepler-53.xml
+Kepler-53,system,Declination,+40 33 44,,+40 33 44.9,Kepler-53.xml
+Kepler-54,system,Right ascension,19 39 05,,19 39 05.75,Kepler-54.xml
+Kepler-54,system,Declination,+43 03 22,,+43 03 22.7,Kepler-54.xml
+Kepler-56,system,Right ascension,19 35 02.01,,19 35 02.00,Kepler-56.xml
+Kepler-57,system,Right ascension,19 34 33,,19 34 33.91,Kepler-57.xml
+Kepler-58,system,Declination,+39 06 54,,+39 06 54.7,Kepler-58.xml
+Kepler-60,system,Right ascension,19 15 50.698,,19 15 50.70,Kepler-60.xml
+Kepler-62,system,Declination,+45 20 59,,+45 20 59.5,Kepler-62.xml
+Kepler-63,system,Distance errorminus,15,,-15.00,Kepler-63.xml
+Kepler-67,system,Distance errorminus,90,,-90.00,Kepler-67.xml
+Kepler-68,system,Right ascension,19 24 07.7644,,19 24 07.75,Kepler-68.xml
+Kepler-68,system,Distance errorminus,10,,-10.00,Kepler-68.xml
+Kepler-69,system,Right ascension,19 33 02,,19 33 02.63,Kepler-69.xml
+Kepler-183,system,Right ascension,19 34 07,,19 45 25.47,Kepler-183.xml
+Kepler-183,system,Declination,+39 18 57,,+41 05 33.9,Kepler-183.xml
+Kepler-183,system,Distance [parsec],1092.31,,1180.00,Kepler-183.xml
+Kepler-367,system,Right ascension,19 49 10,,19 39 27.72,Kepler-367.xml
+Kepler-367,system,Declination,+49 58 53,,+46 17 09.1,Kepler-367.xml
+Kepler-367,system,Distance [parsec],196.01,,800.00,Kepler-367.xml
+Kepler-74,system,Distance errorminus,170,,-170.00,Kepler-74.xml
+Kepler-81,system,Right ascension,19 34 32,,19 34 32.87,Kepler-81.xml
+Kepler-81,system,Declination,+42 49 29,,+42 49 29.9,Kepler-81.xml
+Kepler-82,system,Right ascension,19 31 29,,19 31 29.61,Kepler-82.xml
+Kepler-83,system,Right ascension,18 48 55,,18 48 55.81,Kepler-83.xml
+Kepler-84,system,Declination,+40 29 45,,+40 29 45.9,Kepler-84.xml
+Kepler-85,system,Right ascension,19 23 53,,19 23 53.62,Kepler-85.xml
+Kepler-296,system,Right ascension,19 06 09.602,,19 24 35.54,Kepler-296.xml
+Kepler-296,system,Declination,+49 26 14.37,,+40 40 09.9,Kepler-296.xml
+Kepler-296,system,Distance [parsec],558.5,,339.00,Kepler-296.xml
+Kepler-257,system,Right ascension,19 49 15,,19 49 19.93,Kepler-257.xml
+Kepler-257,system,Declination,+46 01 23,,+41 53 28.0,Kepler-257.xml
+Kepler-91,system,Distance errorminus,130,,-130.00,Kepler-91.xml
+Kepler-920,system,Right ascension,18 57 11,,19 16 20.65,Kepler-920.xml
+Kepler-920,system,Declination,+49 09 31,,+41 33 46.6,Kepler-920.xml
+Kepler-93,system,Declination,+38 40 20.450,,+38 40 20.5,Kepler-93.xml
+Kepler-94,system,Declination,+47 29 49,,+47 29 49.7,Kepler-94.xml
+Kepler-95,system,Declination,+44 23 52,,+44 23 52.9,Kepler-95.xml
+Kepler-100,system,Right ascension,19 25 32,,19 25 32.63,Kepler-100.xml
+Kepler-100,system,Declination,+41 59 24,,+41 59 25.0,Kepler-100.xml
+Kepler-102,system,Right ascension,18 45 55,,18 45 55.86,Kepler-102.xml
+Kepler-102,system,Declination,+47 12 28,,+47 12 28.9,Kepler-102.xml
+Kepler-103,system,Right ascension,19 15 56.2,,19 15 56.29,Kepler-103.xml
+Kepler-105,system,Right ascension,19 11 32,,19 11 32.96,Kepler-105.xml
+Kepler-107,system,Right ascension,19 48 06,,19 48 06.78,Kepler-107.xml
+Kepler-107,system,Declination,+48 12 30,,+48 12 31.0,Kepler-107.xml
+Kepler-109,system,Right ascension,19 21 34.263,,19 21 34.25,Kepler-109.xml
+Kepler-109,system,Declination,+40 17 05.66,,+40 17 05.5,Kepler-109.xml
+Kepler-110,system,Right ascension,19 31 42,,19 31 42.99,Kepler-110.xml
+Kepler-111,system,Right ascension,19 26 36,,19 26 36.76,Kepler-111.xml
+Kepler-111,system,Declination,+44 41 17,,+44 41 17.8,Kepler-111.xml
+Kepler-75,system,Distance errorminus,250,,-160.00,Kepler-75.xml
+Kepler-75,system,Distance errorplus,160,,250.00,Kepler-75.xml
+Kepler-780,system,Right ascension,18 47 04,,19 34 58.01,Kepler-780.xml
+Kepler-780,system,Declination,+44 17 33,,+44 26 54.0,Kepler-780.xml
+Kepler-79,system,Declination,+44 22 53.44,,+44 22 53.7,Kepler-79.xml
+Kepler-80,system,Declination,+39 58 43,,+39 58 43.6,Kepler-80.xml
+Kepler-80,system,Distance [parsec],418.17,,357.00,Kepler-80.xml
+Kepler-113,system,Declination,+50 56 39,,+50 56 39.6,Kepler-113.xml
+4 UMa,system,Distance [parsec],78.5,,77.40,4 UMa.xml
+7 CMa,system,Distance [parsec],19.75,,19.84,7 CMa.xml
+7 CMa,system,Distance errorminus,0.09,,-0.28,7 CMa.xml
+7 CMa,system,Distance errorplus,0.09,,0.27,7 CMa.xml
+11 Com,system,Distance [parsec],88.9,,110.62,11 Com.xml
+11 Com,system,Distance errorminus,1.7,,-11.63,11 Com.xml
+11 Com,system,Distance errorplus,1.7,,9.61,11 Com.xml
+11 UMi,system,Distance [parsec],122.1,,119.47,11 UMi.xml
+11 UMi,system,Distance errorminus,2.8,,-6.95,11 UMi.xml
+11 UMi,system,Distance errorplus,2.8,,6.22,11 UMi.xml
+14 And,system,Right ascension,23 31 17.41346,,23 31 17.42,14 And.xml
+14 And,system,Distance [parsec],79.2,,76.39,14 And.xml
+14 And,system,Distance errorminus,1.7,,-4.38,14 And.xml
+14 And,system,Distance errorplus,1.7,,3.93,14 And.xml
+14 Her,system,Right ascension,16 10 23,,16 10 24.31,14 Her.xml
+14 Her,system,Declination,+43 49 18,,+43 49 03.5,14 Her.xml
+14 Her,system,Distance [parsec],18.1,,18.15,14 Her.xml
+18 Del,system,Right ascension,20 58 25.93397,,20 58 25.94,18 Del.xml
+18 Del,system,Distance [parsec],75.3,,73.10,18 Del.xml
+18 Del,system,Distance errorminus,1.8,,-3.94,18 Del.xml
+18 Del,system,Distance errorplus,1.8,,3.56,18 Del.xml
+24 Sex,system,Distance [parsec],74.8,,74.79,24 Sex.xml
+24 Sex,system,Distance errorminus,4.9,,-5.21,24 Sex.xml
+24 Sex,system,Distance errorplus,4.9,,4.57,24 Sex.xml
+42 Dra,system,Distance [parsec],96.5,,97.28,42 Dra.xml
+42 Dra,system,Distance errorminus,1.9,,-4.76,42 Dra.xml
+42 Dra,system,Distance errorplus,1.9,,4.34,42 Dra.xml
+47 UMa,system,Distance [parsec],14.063,,14.08,47 UMa.xml
+47 UMa,system,Distance errorminus,0.049,,-0.13,47 UMa.xml
+47 UMa,system,Distance errorplus,0.049,,0.13,47 UMa.xml
+55 Cancri,system,Declination,+28 19 50.9511,,+28 19 50.9,55 Cancri.xml
+55 Cancri,system,Distance [parsec],12.34,,12.53,55 Cancri.xml
+55 Cancri,system,Distance errorminus,0.11,,-0.13,55 Cancri.xml
+55 Cancri,system,Distance errorplus,0.11,,0.13,55 Cancri.xml
+61 Vir,system,Right ascension,13 18 24.31427,,13 18 24.32,61 Vir.xml
+61 Vir,system,Distance errorminus,0.05,,-0.05,61 Vir.xml
+70 Vir,system,Distance [parsec],18.1,,18.11,70 Vir.xml
+70 Vir,system,Distance errorminus,0.2,,-0.24,70 Vir.xml
+70 Vir,system,Distance errorplus,0.2,,0.24,70 Vir.xml
+81 Cet,system,Right ascension,02 37 42.80105,,02 37 41.80,81 Cet.xml
+81 Cet,system,Distance [parsec],92.5,,97.18,81 Cet.xml
+81 Cet,system,Distance errorminus,3.9,,-10.11,81 Cet.xml
+81 Cet,system,Distance errorplus,3.9,,8.37,81 Cet.xml
+DH Tau,system,Distance [parsec],140.01,,140.00,DH Tau.xml
+GU Psc,system,Distance errorminus,5,,-5.00,GU Psc.xml
+HN Peg,system,Distance [parsec],18.4,,18.39,HN Peg.xml
+HN Peg,system,Distance errorminus,0.3,,-0.29,HN Peg.xml
+HN Peg,system,Distance errorplus,0.3,,0.28,HN Peg.xml
+NN Ser,system,Declination,+12 54 47,,+12 54 44.7,NN Ser.xml
+alf Ari,system,Distance [parsec],20.18,,20.21,alf Ari.xml
+alf Ari,system,Distance errorminus,0.10,,-0.41,alf Ari.xml
+alf Ari,system,Distance errorplus,0.10,,0.40,alf Ari.xml
+eps Eridani,system,Distance [parsec],3.2161,,3.21,eps Eridani.xml
+eps Eridani,system,Distance errorminus,0.0017,,-0.00,eps Eridani.xml
+eps Eridani,system,Distance errorplus,0.0017,,0.00,eps Eridani.xml
+mu Leo,system,Distance [parsec],38.05,,40.78,mu Leo.xml
+mu Leo,system,Distance errorminus,0.23,,-1.50,mu Leo.xml
+mu Leo,system,Distance errorplus,0.23,,1.40,mu Leo.xml
+nu Oph,system,Distance [parsec],46.21,,46.84,nu Oph.xml
+nu Oph,system,Distance errorminus,0.56,,-1.80,nu Oph.xml
+nu Oph,system,Distance errorplus,0.56,,1.67,nu Oph.xml
+Omega Serpentis,system,Distance [parsec],83.8,,80.64,Omega Serpentis.xml
+omi UMa,system,Distance [parsec],54.91,,56.31,omi UMa.xml
+omi UMa,system,Distance errorminus,0.48,,-2.14,omi UMa.xml
+omi UMa,system,Distance errorplus,0.48,,1.99,omi UMa.xml
+tau Gem,system,Distance [parsec],98.4,,92.51,tau Gem.xml
+tau Gem,system,Distance errorminus,2.4,,-9.12,tau Gem.xml
+tau Gem,system,Distance errorplus,2.5,,7.62,tau Gem.xml
+xi Aql,system,Distance [parsec],62.7,,62.66,xi Aql.xml
+xi Aql,system,Distance errorminus,4.0,,-4.23,xi Aql.xml
+xi Aql,system,Distance errorplus,4.0,,3.73,xi Aql.xml
+Fomalhaut,system,Distance [parsec],7.704,,7.69,Fomalhaut.xml
+Fomalhaut,system,Distance errorminus,0.028,,-0.05,Fomalhaut.xml
+Fomalhaut,system,Distance errorplus,0.028,,0.05,Fomalhaut.xml
+2M1207,system,Distance [parsec],59,,52.40,2M1207.xml
+2M1207,system,Distance errorminus,7,,-1.10,2M1207.xml
+2M1207,system,Distance errorplus,7,,1.10,2M1207.xml
+BD-17 63,system,Distance [parsec],35.7,,37.54,BD-17 63.xml
+BD-17 63,system,Distance errorminus,1.6,,-2.08,BD-17 63.xml
+BD-17 63,system,Distance errorplus,1.6,,1.87,BD-17 63.xml
+BD-11 4672,system,Right ascension,18 33 28.83271,,18 33 28.84,BD-11 4672.xml
+BD-08 2823,system,Distance [parsec],42.5,,42.09,BD-08 2823.xml
+BD-08 2823,system,Distance errorminus,2.8,,-3.06,BD-08 2823.xml
+BD-08 2823,system,Distance errorplus,2.8,,2.67,BD-08 2823.xml
+Gliese 221,system,Distance [parsec],20,,20.10,Gliese 221.xml
+Gliese 221,system,Distance errorminus,1,,-0.69,Gliese 221.xml
+Gliese 221,system,Distance errorplus,1,,0.65,Gliese 221.xml
+BD+14 4559,system,Distance [parsec],48.36,,50.03,BD+14 4559.xml
+BD+14 4559,system,Distance errorminus,2.90,,-4.38,BD+14 4559.xml
+BD+14 4559,system,Distance errorplus,2.90,,3.73,BD+14 4559.xml
+BD+15 2940,system,Distance [parsec],508,,175.44,BD+15 2940.xml
+BD+20 274,system,Declination,+21 00 19.04,,+21 00 19.1,BD+20 274.xml
+BD+20 2457,system,Declination,+19 53 28.974,,+19 53 29.1,BD+20 2457.xml
+HD 164595,system,Distance errorminus,0.4,,-0.62,HD 164595.xml
+HD 164595,system,Distance errorplus,0.4,,0.60,HD 164595.xml
+HAT-P-57,system,Right ascension,18 18 58.32,,18 18 58.42,HAT-P-57.xml
+HAT-P-57,system,Distance errorminus,13,,-13.00,HAT-P-57.xml
+HAT-P-50,system,Right ascension,07 52 15.20,,07 52 15.22,HAT-P-50.xml
+HAT-P-50,system,Distance errorminus,21,,-21.00,HAT-P-50.xml
+HAT-P-51,system,Right ascension,01 24 15.66,,01 24 15.65,HAT-P-51.xml
+HAT-P-51,system,Distance errorminus,16,,-16.00,HAT-P-51.xml
+HAT-P-51,system,Distance errorplus,15,,16.00,HAT-P-51.xml
+HAT-P-52,system,Distance errorminus,21,,-21.00,HAT-P-52.xml
+HAT-P-53,system,Right ascension,01 27 29.05,,01 27 29.07,HAT-P-53.xml
+HAT-P-53,system,Distance errorminus,43,,-43.00,HAT-P-53.xml
+HD 1461,system,Distance [parsec],23.4,,23.44,HD 1461.xml
+HD 204313,system,Declination,-21 43 35,,-21 43 34.5,HD 204313.xml
+HD 204313,system,Distance [parsec],47.37,,47.30,HD 204313.xml
+KIC 9663113,system,Right ascension,19 48 10.901,,19 48 10.90,KIC 9663113.xml
+KIC 5437945,system,Right ascension,19 13 53.962,,19 13 53.97,KIC 5437945.xml
+EPIC 210490365,system,Right ascension,04 13 05.61,,04 13 05.62,EPIC 210490365.xml
+EPIC 210490365,system,Declination,+15 14 52.00,,+15 14 51.9,EPIC 210490365.xml
+EPIC 210490365,system,Distance errorminus,3.3,,-3.30,EPIC 210490365.xml
+HD 32963,system,Distance [parsec],36.39,,35.24,HD 32963.xml
+HD 32963,system,Distance errorminus,0.95,,-1.39,HD 32963.xml
+HD 32963,system,Distance errorplus,0.95,,1.29,HD 32963.xml
+TYC 3667-1280-1,system,Declination,+58 25 34.268,,+58 25 34.2,TYC 3667-1280-1.xml
+TYC 3667-1280-1,system,Distance errorminus,37,,-37.00,TYC 3667-1280-1.xml
+Kepler-828,system,Declination,+42 28 17,,+42 28 16.5,Kepler-828.xml
+Kepler-833,system,Declination,+45 36 03,,+45 36 02.5,Kepler-833.xml
+WASP-76,system,Distance errorminus,20,,-20.00,WASP-76.xml
+WASP-90,system,Declination,+07 03 24,,+07 03 22.4,WASP-90.xml
+WASP-90,system,Distance errorminus,60,,-60.00,WASP-90.xml
+Kepler-1127,system,Declination,+42 43 15,,+42 43 14.5,Kepler-1127.xml
+Kepler-966,system,Declination,+50 07 19,,+50 07 18.5,Kepler-966.xml
+Kepler-1156,system,Declination,+46 03 27,,+46 03 27.5,Kepler-1156.xml
+Kepler-1161,system,Right ascension,19 56 19,,19 56 18.50,Kepler-1161.xml
+HATS-13,system,Right ascension,21 07 50.88,,21 07 50.75,HATS-13.xml
+HATS-13,system,Distance errorminus,12,,-12.00,HATS-13.xml
+HATS-14,system,Right ascension,20 52 51.715,,20 52 51.71,HATS-14.xml
+HATS-14,system,Distance errorminus,14,,-14.00,HATS-14.xml
+HD 95872,system,Right ascension,11 03 28.071,,11 03 28.11,HD 95872.xml
+HD 95872,system,Declination,-22 05 38.41,,-22 05 38.3,HD 95872.xml
+KELT-10,system,Right ascension,18 58 11.601,,18 58 11.61,KELT-10.xml
+KELT-10,system,Distance errorminus,14,,-14.00,KELT-10.xml
+Kepler-994,system,Declination,+47 24 25,,+47 24 25.5,Kepler-994.xml
+Kepler-998,system,Declination,+49 12 31,,+49 12 31.5,Kepler-998.xml
+Kepler-904,system,Right ascension,19 15 17,,19 15 17.50,Kepler-904.xml
+Kepler-342,system,Right ascension,19 30 42,,19 30 42.74,Kepler-342.xml
+HD 175607,system,Distance errorminus,2.07,,-2.07,HD 175607.xml
+HD 219134,system,Distance [parsec],6.546,,6.55,HD 219134.xml
+HD 219134,system,Distance errorminus,0.012,,-0.01,HD 219134.xml
+HD 219134,system,Distance errorplus,0.012,,0.01,HD 219134.xml
+K2-26,system,Distance errorminus,7,,-7.00,K2-26.xml
+Kepler-351,system,Right ascension,19 05 48,,19 05 48.65,Kepler-351.xml
+Kepler-167,system,Declination,+38 20 43,,+38 20 43.5,Kepler-167.xml
+Kepler-167,system,Distance [parsec],344.68,,330.00,Kepler-167.xml
+Kepler-1279,system,Declination,+40 21 57,,+40 21 57.5,Kepler-1279.xml
+Kepler-1281,system,Declination,+48 30 55,,+48 30 55.5,Kepler-1281.xml
+Kepler-1294,system,Declination,+44 29 17,,+44 29 17.5,Kepler-1294.xml
+Kepler-1068,system,Declination,+46 23 33,,+46 23 32.5,Kepler-1068.xml
+Kepler-1082,system,Declination,+50 35 55,,+50 35 54.5,Kepler-1082.xml
+Kepler-436,system,Distance errorminus,30,,-30.00,Kepler-436.xml
+Kepler-221,system,Declination,+46 50 06,,+46 50 07.0,Kepler-221.xml
+Kepler-222,system,Declination,+46 56 15,,+46 56 16.0,Kepler-222.xml
+Kepler-226,system,Declination,+47 52 51,,+47 52 51.6,Kepler-226.xml
+Kepler-228,system,Right ascension,19 45 08,,19 45 08.67,Kepler-228.xml
+Kepler-228,system,Declination,+48 13 28,,+48 13 28.8,Kepler-228.xml
+Kepler-229,system,Right ascension,19 07 59,,19 07 59.87,Kepler-229.xml
+Kepler-229,system,Declination,+48 22 32,,+48 22 32.9,Kepler-229.xml
+Kepler-231,system,Right ascension,19 35 53,,19 35 53.60,Kepler-231.xml
+Kepler-231,system,Declination,+50 31 54,,+50 31 54.9,Kepler-231.xml
+Kepler-233,system,Right ascension,19 45 27,,19 45 27.97,Kepler-233.xml
+Kepler-235,system,Right ascension,19 04 18,,19 04 18.98,Kepler-235.xml
+Kepler-235,system,Declination,+39 16 41,,+39 16 41.9,Kepler-235.xml
+Kepler-236,system,Right ascension,18 55 27,,18 55 27.93,Kepler-236.xml
+eps Tau,system,Right ascension,04 28 36.99882,,04 28 37.00,eps Tau.xml
+eps Tau,system,Declination,+19 10 49.5446,,+19 10 49.6,eps Tau.xml
+eps Tau,system,Distance [parsec],44.96,,47.53,eps Tau.xml
+eps Tau,system,Distance errorminus,0.51,,-1.93,eps Tau.xml
+eps Tau,system,Distance errorplus,0.51,,1.78,eps Tau.xml
+Kepler-1308,system,Declination,+38 31 15,,+38 31 15.5,Kepler-1308.xml
+Kepler-398,system,Declination,+40 20 37,,+40 20 37.9,Kepler-398.xml
+Kepler-1317,system,Declination,+42 06 57,,+42 06 57.5,Kepler-1317.xml
+Kepler-401,system,Right ascension,19 20 19,,19 20 19.86,Kepler-401.xml
+Kepler-1321,system,Declination,+46 38 27,,+46 38 27.5,Kepler-1321.xml
+Kepler-1099,system,Right ascension,19 14 59.9,,19 14 59.99,Kepler-1099.xml
+Kepler-1101,system,Declination,+45 40 17,,+45 40 16.5,Kepler-1101.xml
+Kepler-1108,system,Declination,+45 59 07,,+45 59 06.5,Kepler-1108.xml
+Kepler-214,system,Declination,+44 57 21,,+44 57 21.7,Kepler-214.xml
+Kepler-215,system,Right ascension,19 39 53,,19 39 53.64,Kepler-215.xml
+Kepler-216,system,Right ascension,19 34 54,,19 34 54.74,Kepler-216.xml
+Kepler-216,system,Declination,+46 07 44,,+46 07 45.0,Kepler-216.xml
+Kepler-482,system,Right ascension,19 47 17,,19 47 17.50,Kepler-482.xml
+Kepler-494,system,Declination,+41 39 51,,+41 39 50.5,Kepler-494.xml
+Kepler-505,system,Declination,+42 32 33,,+42 32 33.5,Kepler-505.xml
+Kepler-1336,system,Declination,+46 53 59,,+46 53 59.5,Kepler-1336.xml
+Wolf 1061,system,Distance [parsec],4.2922,,4.29,Wolf 1061.xml
+Kepler-220,system,Right ascension,19 26 01,,19 26 01.50,Kepler-220.xml
+Kepler-220,system,Declination,+46 53 44,,+46 53 44.8,Kepler-220.xml
+Kepler-225,system,Right ascension,19 28 46,,19 28 46.56,Kepler-225.xml
+Kepler-225,system,Declination,+47 27 25,,+47 27 25.5,Kepler-225.xml
+omi CrB,system,Declination,+29 36 58.3488,,+29 36 58.4,omi CrB.xml
+omi CrB,system,Distance [parsec],82.8,,84.03,omi CrB.xml
+omi CrB,system,Distance errorminus,3.0,,-5.57,omi CrB.xml
+omi CrB,system,Distance errorplus,3.0,,4.92,omi CrB.xml
+tau Boo,system,Distance [parsec],15.62,,15.60,tau Boo.xml
+tau Boo,system,Distance errorminus,0.05,,-0.17,tau Boo.xml
+tau Boo,system,Distance errorplus,0.05,,0.17,tau Boo.xml
+HATS-17,system,Right ascension,12 48 45.72,,12 48 45.55,HATS-17.xml
+HATS-17,system,Distance errorminus,16,,-16.00,HATS-17.xml
+TRAPPIST-1,system,Right ascension,23 06 30.34,,23 06 29.28,TRAPPIST-1.xml
+TRAPPIST-1,system,Declination,-05 02 36.44,,-05 02 28.6,TRAPPIST-1.xml
+TRAPPIST-1,system,Distance errorminus,0.4,,-0.40,TRAPPIST-1.xml
+KELT-15,system,Right ascension,07 49 39.601,,07 49 39.61,KELT-15.xml
+KELT-15,system,Distance errorminus,30,,-30.00,KELT-15.xml
+Kepler-1353,system,Declination,+42 34 35,,+42 34 34.5,Kepler-1353.xml
+Kepler-1370,system,Declination,+41 46 43,,+41 46 42.5,Kepler-1370.xml
+Kepler-227,system,Declination,+48 08 29,,+48 08 29.9,Kepler-227.xml
+Kepler-232,system,Right ascension,19 43 15,,19 43 15.88,Kepler-232.xml
+Kepler-234,system,Right ascension,19 26 36,,19 26 36.84,Kepler-234.xml
+Kepler-234,system,Declination,+38 29 40,,+38 29 40.8,Kepler-234.xml
+Kepler-237,system,Declination,+40 25 18,,+40 25 18.6,Kepler-237.xml
+Kepler-571,system,Declination,+49 25 07,,+49 25 07.5,Kepler-571.xml
+Kepler-579,system,Declination,+39 57 11,,+39 57 10.5,Kepler-579.xml
+Kepler-580,system,Right ascension,18 53 59.9,,18 53 59.96,Kepler-580.xml
+Kepler-1391,system,Declination,+46 39 35,,+46 39 34.5,Kepler-1391.xml
+EPIC 201393098,system,Right ascension,11 08 22.505,,11 08 22.51,EPIC 201393098.xml
+EPIC 201465501,system,Distance errorminus,12,,-12.00,EPIC 201465501.xml
+EPIC 201505350,system,Distance errorminus,20,,-20.00,EPIC 201505350.xml
+EPIC 201577035,system,Distance errorminus,21,,-21.00,EPIC 201577035.xml
+EPIC 201596316,system,Distance errorminus,1728,,-1728.00,EPIC 201596316.xml
+EPIC 201613023,system,Distance errorminus,27,,-27.00,EPIC 201613023.xml
+EPIC 201635569,system,Distance errorminus,8,,-8.00,EPIC 201635569.xml
+EPIC 201736247,system,Distance errorminus,22,,-22.00,EPIC 201736247.xml
+EPIC 201754305,system,Distance errorminus,16,,-16.00,EPIC 201754305.xml
+EPIC 201855371,system,Distance errorminus,6,,-6.00,EPIC 201855371.xml
+EPIC 201912552,system,Distance errorminus,4,,-4.00,EPIC 201912552.xml
+WASP-135,system,Declination,+29 52 45.0,,+29 52 44.8,WASP-135.xml
+WASP-135,system,Distance errorminus,45,,-45.00,WASP-135.xml
+LkCa 15,system,Declination,+22 21 03,,+22 21 03.5,LkCa 15.xml
+Kepler-454,system,Right ascension,19 09 54.841,,19 09 54.85,Kepler-454.xml
+Kepler-454,system,Declination,+38 13 43.95,,+38 13 43.9,Kepler-454.xml
+HD 33844,system,Right ascension,05 12 36.10097,,05 12 36.10,HD 33844.xml
+HD 33844,system,Distance errorminus,6.5,,-6.50,HD 33844.xml
+Gliese 687,system,Right ascension,17 36 25.89973,,17 36 25.90,Gliese 687.xml
+Gliese 687,system,Distance [parsec],4.5,,4.53,Gliese 687.xml
+Gliese 687,system,Distance errorminus,0.115,,-0.02,Gliese 687.xml
+Gliese 687,system,Distance errorplus,0.115,,0.02,Gliese 687.xml
+Gliese 1214,system,Right ascension,17 15 18.94,,17 15 18.92,Gliese 1214.xml
+Gliese 1214,system,Declination,+04 57 49.7,,+04 57 50.1,Gliese 1214.xml
+Kepler-152,system,Right ascension,19 07 27,,19 07 27.71,Kepler-152.xml
+Kepler-152,system,Declination,+41 59 20,,+41 59 20.7,Kepler-152.xml
+Kepler-153,system,Right ascension,18 49 50,,18 49 50.53,Kepler-153.xml
+Kepler-153,system,Declination,+48 15 25,,+48 15 25.6,Kepler-153.xml
+Kepler-154,system,Declination,+49 53 47,,+49 53 47.5,Kepler-154.xml
+Kepler-155,system,Declination,+51 04 54,,+51 04 55.0,Kepler-155.xml
+Kepler-158,system,Right ascension,18 56 07,,18 56 07.74,Kepler-158.xml
+Kepler-158,system,Declination,+39 46 52,,+39 46 52.9,Kepler-158.xml
+Kepler-159,system,Right ascension,19 48 16,,19 48 16.84,Kepler-159.xml
+Kepler-159,system,Declination,+40 52 07,,+40 52 07.6,Kepler-159.xml
+Kepler-160,system,Right ascension,19 11 05,,19 11 05.66,Kepler-160.xml
+Kepler-161,system,Right ascension,19 22 03,,19 22 03.96,Kepler-161.xml
+Kepler-161,system,Declination,+43 05 01,,+43 05 01.8,Kepler-161.xml
+Kepler-162,system,Right ascension,19 49 06,,19 49 06.94,Kepler-162.xml
+Kepler-163,system,Right ascension,19 40 00,,19 40 00.68,Kepler-163.xml
+Kepler-164,system,Declination,+47 37 47,,+47 37 47.7,Kepler-164.xml
+Kepler-165,system,Right ascension,18 42 45,,18 42 45.84,Kepler-165.xml
+HD 7449,system,Distance [parsec],38.9,,38.52,HD 7449.xml
+HD 7449,system,Distance errorminus,0.71,,-1.18,HD 7449.xml
+HD 7449,system,Distance errorplus,0.74,,1.11,HD 7449.xml
+HD 7924,system,Right ascension,01 21 59.11491,,01 21 59.12,HD 7924.xml
+HD 7924,system,Distance errorminus,0.13,,-0.13,HD 7924.xml
+HD 8574,system,Right ascension,01 25 12,,01 25 12.52,HD 8574.xml
+HD 9446,system,Declination,+29 15 55,,+29 15 54.5,HD 9446.xml
+HD 9446,system,Distance [parsec],53,,52.85,HD 9446.xml
+HD 10180,system,Distance [parsec],39.4,,39.02,HD 10180.xml
+HD 10442,system,Right ascension,01 41 53.142,,01 41 53.15,HD 10442.xml
+HD 10697,system,Right ascension,01 44 55,,01 44 55.82,HD 10697.xml
+HD 10697,system,Distance [parsec],32.56,,32.60,HD 10697.xml
+HD 11506,system,Distance errorminus,1.6,,-1.60,HD 11506.xml
+HD 11977,system,Distance [parsec],66.5,,66.49,HD 11977.xml
+HD 11964,system,Right ascension,01 57 09,,01 57 09.61,HD 11964.xml
+HD 11964,system,Declination,-10 14 32,,-10 14 32.7,HD 11964.xml
+HD 12661,system,Declination,+25 24 51,,+25 24 51.5,HD 12661.xml
+HD 13189,system,Distance [parsec],185,,300.30,HD 13189.xml
+HD 13908,system,Distance [parsec],71.3,,66.89,HD 13908.xml
+HD 13908,system,Distance errorminus,3.5,,-4.03,HD 13908.xml
+HD 13908,system,Distance errorplus,3.5,,3.60,HD 13908.xml
+HD 13931,system,Distance [parsec],44.2,,45.52,HD 13931.xml
+HD 13931,system,Distance errorminus,1.3,,-2.08,HD 13931.xml
+HD 13931,system,Distance errorplus,1.3,,1.91,HD 13931.xml
+HD 16141,system,Right ascension,02 35 19,,02 35 19.93,HD 16141.xml
+HD 16141,system,Distance [parsec],35.9,,35.91,HD 16141.xml
+HD 16175,system,Declination,+42 03 45,,+42 03 45.5,HD 16175.xml
+HD 16175,system,Distance [parsec],59.8,,59.84,HD 16175.xml
+HD 17156,system,Distance [parsec],78.24,,75.00,HD 17156.xml
+HD 18742,system,Distance [parsec],135,,127.88,HD 18742.xml
+HD 126614,system,Distance [parsec],72.6,,68.35,HD 126614.xml
+HD 126614,system,Distance errorminus,5.1,,-5.83,HD 126614.xml
+HD 126614,system,Distance errorplus,5.1,,4.98,HD 126614.xml
+HD 128311,system,Right ascension,14 36 00,,14 36 00.56,HD 128311.xml
+HD 128311,system,Declination,+09 44 47,,+09 44 47.5,HD 128311.xml
+HD 129445,system,Declination,-68 45 45,,-68 45 45.9,HD 129445.xml
+HD 130322,system,Distance [parsec],30,,29.76,HD 130322.xml
+HD 131496,system,Distance [parsec],110,,121.36,HD 131496.xml
+HD 132406,system,Distance [parsec],71,,70.97,HD 132406.xml
+HD 132563,system,Distance [parsec],96,,98.52,HD 132563.xml
+HD 132563,system,Distance errorminus,13,,-24.33,HD 132563.xml
+HD 132563,system,Distance errorplus,13,,16.28,HD 132563.xml
+HD 131664,system,Distance [parsec],55.43,,57.21,HD 131664.xml
+HD 131664,system,Distance errorminus,2.3,,-3.11,HD 131664.xml
+HD 131664,system,Distance errorplus,2.3,,2.80,HD 131664.xml
+HD 134987,system,Right ascension,15 13 28,,15 13 28.67,HD 134987.xml
+HD 134987,system,Declination,-25 18 33,,-25 18 33.6,HD 134987.xml
+HD 136418,system,Right ascension,15 19 07,,15 19 06.18,HD 136418.xml
+HD 136418,system,Declination,+41 44 00,,+41 43 59.5,HD 136418.xml
+HD 136418,system,Distance [parsec],98.2,,106.38,HD 136418.xml
+HD 141937,system,Right ascension,15 52 17,,15 52 17.55,HD 141937.xml
+HD 141937,system,Declination,-18 26 09,,-18 26 09.8,HD 141937.xml
+HD 142245,system,Distance [parsec],109,,106.38,HD 142245.xml
+HD 145457,system,Distance [parsec],126,,126.10,HD 145457.xml
+HD 145377,system,Distance [parsec],55.0,,55.19,HD 145377.xml
+HD 145377,system,Distance errorminus,2.8,,-3.57,HD 145377.xml
+HD 145377,system,Distance errorplus,2.8,,3.16,HD 145377.xml
+HD 147513,system,Declination,-39 11 34,,-39 11 34.7,HD 147513.xml
+HD 147513,system,Distance [parsec],12.9,,12.87,HD 147513.xml
+HD 149026,system,Right ascension,16 30 29,,16 30 29.62,HD 149026.xml
+HD 149026,system,Distance [parsec],78.9,,78.86,HD 149026.xml
+HD 149143,system,Distance [parsec],63,,63.49,HD 149143.xml
+HD 150706,system,Right ascension,16 31 17,,16 31 17.59,HD 150706.xml
+HD 150706,system,Distance [parsec],27.2,,27.23,HD 150706.xml
+HD 152581,system,Right ascension,16 53 43,,16 53 43.58,HD 152581.xml
+HD 152581,system,Declination,+11 58 25,,+11 58 25.5,HD 152581.xml
+HD 152581,system,Distance [parsec],186,,182.82,HD 152581.xml
+GSC 06214-00210,system,Declination,-20 43 07,,-20 43 09.1,GSC 06214-00210.xml
+GSC 06214-00210,system,Distance errorminus,14,,-14.00,GSC 06214-00210.xml
+HAT-P-2,system,Distance [parsec],118,,135.32,HAT-P-2.xml
+HAT-P-3,system,Distance [parsec],130,,138.00,HAT-P-3.xml
+HAT-P-5,system,Declination,+36 37 18,,+36 37 17.1,HAT-P-5.xml
+HAT-P-6,system,Distance [parsec],200,,261.00,HAT-P-6.xml
+HAT-P-8,system,Distance errorminus,15,,-15.00,HAT-P-8.xml
+HAT-P-12,system,Right ascension,13 57 34,,13 57 33.48,HAT-P-12.xml
+HAT-P-18,system,Right ascension,17 05 24,,17 05 23.15,HAT-P-18.xml
+HAT-P-18,system,Distance errorminus,9,,-9.00,HAT-P-18.xml
+BD+48 738,system,Right ascension,02 42 50.463,,02 42 50.45,BD+48 738.xml
+BD+49 828,system,Right ascension,03 02 33.7362,,03 02 33.73,BD+49 828.xml
+CoRoT-2,system,Right ascension,19 27 07,,19 27 06.49,CoRoT-2.xml
+CoRoT-2,system,Declination,+01 23 02,,+01 23 01.4,CoRoT-2.xml
+CoRoT-2,system,Distance [parsec],300,,200.00,CoRoT-2.xml
+CoRoT-6,system,Right ascension,18 44 18,,18 44 17.41,CoRoT-6.xml
+CoRoT-7,system,Distance [parsec],150,,153.70,CoRoT-7.xml
+CoRoT-7,system,Distance errorminus,20,,-4.50,CoRoT-7.xml
+CoRoT-7,system,Distance errorplus,20,,4.50,CoRoT-7.xml
+Kepler-169,system,Right ascension,19 03 59,,19 03 59.97,Kepler-169.xml
+Kepler-169,system,Declination,+40 55 09,,+40 55 09.6,Kepler-169.xml
+Kepler-170,system,Declination,+41 37 46,,+41 37 46.6,Kepler-170.xml
+Kepler-171,system,Declination,+41 45 19,,+41 45 19.9,Kepler-171.xml
+Kepler-172,system,Declination,+41 49 18,,+41 49 18.7,Kepler-172.xml
+Kepler-173,system,Declination,+41 53 02,,+41 53 02.8,Kepler-173.xml
+Kepler-174,system,Declination,+43 49 55,,+43 49 55.5,Kepler-174.xml
+Kepler-175,system,Right ascension,19 18 12,,19 18 12.79,Kepler-175.xml
+Kepler-176,system,Declination,+43 51 11,,+43 51 11.7,Kepler-176.xml
+HD 20794,system,Right ascension,03 19 55,,03 19 55.65,HD 20794.xml
+HD 20794,system,Declination,-43 30 10,,-43 04 11.2,HD 20794.xml
+HD 20782,system,Distance [parsec],35.49,,35.50,HD 20782.xml
+HD 20782,system,Distance errorminus,0.36,,-0.80,HD 20782.xml
+HD 20782,system,Distance errorplus,0.36,,0.80,HD 20782.xml
+HD 20868,system,Distance [parsec],46.2,,48.90,HD 20868.xml
+HD 20868,system,Distance errorminus,2.9,,-3.50,HD 20868.xml
+HD 20868,system,Distance errorplus,2.9,,3.50,HD 20868.xml
+HD 23127,system,Distance [parsec],89.1,,89.13,HD 23127.xml
+HD 23079,system,Distance [parsec],34.8,,34.60,HD 23079.xml
+HD 24040,system,Right ascension,03 50 22.9,,03 50 22.97,HD 24040.xml
+HD 24040,system,Distance [parsec],46.6,,46.51,HD 24040.xml
+HD 24040,system,Distance errorminus,1.6,,-2.34,HD 24040.xml
+HD 24040,system,Distance errorplus,1.6,,2.13,HD 24040.xml
+HD 25171,system,Distance [parsec],55,,56.05,HD 25171.xml
+HD 27442,system,Declination,-59 18 07,,-59 18 07.8,HD 27442.xml
+HD 27442,system,Distance [parsec],18.1,,18.24,HD 27442.xml
+HD 27631,system,Distance [parsec],45.5,,44.54,HD 27631.xml
+HD 28254,system,Distance [parsec],56.2,,54.70,HD 28254.xml
+HD 28678,system,Right ascension,04 31 28,,04 31 25.45,HD 28678.xml
+HD 28678,system,Declination,+04 34 48,,+04 34 31.0,HD 28678.xml
+HD 28678,system,Distance [parsec],227,,168.92,HD 28678.xml
+HD 30177,system,Declination,-58 01 14,,-58 01 14.7,HD 30177.xml
+HD 30177,system,Distance [parsec],55,,54.71,HD 30177.xml
+HD 30856,system,Right ascension,04 50 14,,04 50 17.86,HD 30856.xml
+HD 30856,system,Declination,-24 21 36,,-24 22 07.8,HD 30856.xml
+HD 30856,system,Distance [parsec],118,,121.07,HD 30856.xml
+HD 32518,system,Distance [parsec],120.6,,117.37,HD 32518.xml
+HD 32518,system,Distance errorminus,8.4,,-11.83,HD 32518.xml
+HD 32518,system,Distance errorplus,8.4,,9.84,HD 32518.xml
+HD 33142,system,Distance [parsec],126,,136.80,HD 33142.xml
+HD 33564,system,Right ascension,05 22 33,,05 22 33.53,HD 33564.xml
+HD 34445,system,Declination,+07 21 12.0508,,+07 21 12.0,HD 34445.xml
+HD 34445,system,Distance [parsec],46.5,,45.01,HD 34445.xml
+HD 34445,system,Distance errorminus,1.4,,-2.23,HD 34445.xml
+HD 34445,system,Distance errorplus,1.4,,2.03,HD 34445.xml
+HD 37124,system,Declination,+20 43 50,,+20 43 50.8,HD 37124.xml
+HD 37124,system,Distance [parsec],33,,33.24,HD 37124.xml
+HD 37605,system,Right ascension,05 40 01,,05 40 01.73,HD 37605.xml
+HD 37605,system,Distance [parsec],42.9,,42.88,HD 37605.xml
+HD 153950,system,Distance [parsec],49.5,,51.87,HD 153950.xml
+HD 153950,system,Distance errorminus,1.7,,-3.63,HD 153950.xml
+HD 153950,system,Distance errorplus,1.7,,3.18,HD 153950.xml
+HD 154672,system,Distance [parsec],65.8,,64.77,HD 154672.xml
+HD 154857,system,Right ascension,17 11 15,,17 11 15.73,HD 154857.xml
+HD 154857,system,Declination,-56 40 50,,-56 40 50.9,HD 154857.xml
+HD 154857,system,Distance [parsec],64.2,,68.54,HD 154857.xml
+HD 154857,system,Distance errorminus,3.1,,-4.56,HD 154857.xml
+HD 154857,system,Distance errorplus,3.1,,4.02,HD 154857.xml
+HD 155358,system,Distance [parsec],43,,43.40,HD 155358.xml
+HD 156668,system,Distance [parsec],24.5,,24.05,HD 156668.xml
+HD 156846,system,Distance errorminus,2.2,,-2.34,HD 156846.xml
+HD 156846,system,Distance errorplus,2.2,,2.13,HD 156846.xml
+HD 159243,system,Distance [parsec],69.2,,68.59,HD 159243.xml
+HD 159243,system,Distance errorminus,5.5,,-6.43,HD 159243.xml
+HD 159243,system,Distance errorplus,5.5,,5.42,HD 159243.xml
+HD 159868,system,Right ascension,17 39 00,,17 38 59.52,HD 159868.xml
+HD 159868,system,Distance [parsec],52.7,,52.72,HD 159868.xml
+HD 163607,system,Distance [parsec],69,,69.44,HD 163607.xml
+HD 164509,system,Distance [parsec],52,,51.81,HD 164509.xml
+HD 164922,system,Right ascension,18 02 30,,18 02 30.86,HD 164922.xml
+HD 164922,system,Declination,+26 18 46,,+26 18 46.8,HD 164922.xml
+HD 164922,system,Distance [parsec],21.93,,22.13,HD 164922.xml
+HD 166724,system,Right ascension,18 14 00,,18 13 59.68,HD 166724.xml
+HD 166724,system,Distance [parsec],42.3,,42.99,HD 166724.xml
+HD 168443,system,Declination,-09 35 34,,-09 35 44.6,HD 168443.xml
+HD 168443,system,Distance [parsec],37.38,,37.88,HD 168443.xml
+HD 168746,system,Right ascension,18 21 49,,18 21 49.78,HD 168746.xml
+HD 168746,system,Declination,-11 55 21,,-11 55 21.7,HD 168746.xml
+HD 169830,system,Declination,-29 49 00,,-29 49 00.7,HD 169830.xml
+HD 169830,system,Distance errorminus,1.16,,-1.24,HD 169830.xml
+HD 169830,system,Distance errorplus,1.24,,1.16,HD 169830.xml
+HD 170469,system,Distance [parsec],64.97,,64.98,HD 170469.xml
+HD 171238,system,Distance [parsec],50.28,,44.05,HD 171238.xml
+CoRoT-8,system,Declination,+01 25 36,,+01 25 35.2,CoRoT-8.xml
+CoRoT-13,system,Distance [parsec],1310,,1060.00,CoRoT-13.xml
+CoRoT-19,system,Declination,-00 10 15,,-00 10 14.5,CoRoT-19.xml
+CoRoT-19,system,Distance [parsec],800,,770.00,CoRoT-19.xml
+CoRoT-22,system,Declination,+06 13 08.97,,+06 13 08.9,CoRoT-22.xml
+CoRoT-22,system,Distance errorminus,42,,-42.00,CoRoT-22.xml
+CoRoT-24,system,Distance errorminus,70,,-70.00,CoRoT-24.xml
+CoRoT-25,system,Right ascension,18 42 31.13,,18 42 31.12,CoRoT-25.xml
+CoRoT-25,system,Declination,+06 30 50.04,,+06 30 49.8,CoRoT-25.xml
+CoRoT-25,system,Distance errorminus,25,,-25.00,CoRoT-25.xml
+CoRoT-27,system,Declination,+05 32 19,,+05 32 18.5,CoRoT-27.xml
+CoRoT-28,system,Right ascension,18 34 45.21,,18 34 45.20,CoRoT-28.xml
+CoRoT-28,system,Declination,+05 34 25.72,,+05 34 25.4,CoRoT-28.xml
+CoRoT-28,system,Distance errorminus,70,,-70.00,CoRoT-28.xml
+CoRoT-29,system,Declination,+06 28 46.99,,+06 28 46.7,CoRoT-29.xml
+CoRoT-29,system,Distance errorminus,50,,-50.00,CoRoT-29.xml
+HAT-P-19,system,Right ascension,00 38 04.012,,00 38 04.02,HAT-P-19.xml
+HAT-P-19,system,Declination,+34 42 41.56,,+34 42 41.7,HAT-P-19.xml
+HAT-P-19,system,Distance errorminus,15,,-15.00,HAT-P-19.xml
+HAT-P-24,system,Declination,+14 15 44,,+14 15 45.4,HAT-P-24.xml
+HAT-P-24,system,Distance errorminus,20,,-20.00,HAT-P-24.xml
+HAT-P-25,system,Right ascension,03 13 45,,03 13 44.50,HAT-P-25.xml
+HAT-P-26,system,Right ascension,14 12 37.54,,14 12 37.53,HAT-P-26.xml
+HAT-P-26,system,Declination,+04 03 36.13,,+04 03 36.0,HAT-P-26.xml
+Kepler-181,system,Declination,+50 05 44,,+50 05 44.9,Kepler-181.xml
+Kepler-184,system,Declination,+43 04 28,,+43 04 29.0,Kepler-184.xml
+Kepler-185,system,Declination,+43 53 23,,+43 53 23.7,Kepler-185.xml
+Kepler-186,system,Right ascension,19 54 36,,19 54 36.65,Kepler-186.xml
+Kepler-186,system,Distance [parsec],151,,172.00,Kepler-186.xml
+Kepler-186,system,Distance errorminus,18,,-10.00,Kepler-186.xml
+Kepler-186,system,Distance errorplus,18,,13.00,Kepler-186.xml
+Kepler-187,system,Declination,+44 05 21,,+44 05 21.5,Kepler-187.xml
+Kepler-188,system,Declination,+44 18 55,,+44 18 55.9,Kepler-188.xml
+Kepler-189,system,Right ascension,19 10 15,,19 10 15.54,Kepler-189.xml
+Kepler-189,system,Declination,+44 18 17,,+44 18 18.0,Kepler-189.xml
+Kepler-190,system,Declination,+44 44 01,,+44 44 01.7,Kepler-190.xml
+HD 38283,system,Distance [parsec],37.7,,37.78,HD 38283.xml
+HD 38529,system,Right ascension,05 46 34,,05 46 34.91,HD 38529.xml
+HD 38529,system,Declination,+01 10 05,,+01 10 05.5,HD 38529.xml
+HD 38529,system,Distance [parsec],39.28,,42.40,HD 38529.xml
+HD 39091,system,Right ascension,05 37 09,,05 37 09.89,HD 39091.xml
+HD 39091,system,Declination,-80 28 08,,-80 28 08.8,HD 39091.xml
+HD 39091,system,Distance [parsec],18.32,,18.21,HD 39091.xml
+HD 40307,system,Distance [parsec],12.8,,12.83,HD 40307.xml
+HD 40979,system,Right ascension,06 04 29,,06 04 29.94,HD 40979.xml
+HD 40979,system,Declination,+44 15 37,,+44 15 37.6,HD 40979.xml
+HD 43197,system,Distance [parsec],54.9,,56.30,HD 43197.xml
+HD 44219,system,Distance [parsec],50.43,,50.40,HD 44219.xml
+HD 45364,system,Distance [parsec],32.6,,32.58,HD 45364.xml
+HD 45350,system,Right ascension,06 28 45,,06 28 45.71,HD 45350.xml
+HD 45350,system,Declination,+38 57 46,,+38 57 46.7,HD 45350.xml
+HD 45350,system,Distance [parsec],49,,48.95,HD 45350.xml
+HD 45652,system,Distance [parsec],36,,36.14,HD 45652.xml
+HD 46375,system,Right ascension,06 33 12,,06 33 12.62,HD 46375.xml
+HD 46375,system,Distance [parsec],33.4,,33.41,HD 46375.xml
+HD 47536,system,Right ascension,06 37 47,,06 37 47.62,HD 47536.xml
+HD 48265,system,Distance [parsec],87.4,,85.40,HD 48265.xml
+HD 50554,system,Right ascension,06 54 42,,06 54 42.82,HD 50554.xml
+HD 60532,system,Distance [parsec],25.7,,25.30,HD 60532.xml
+HD 62509,system,Right ascension,07 45 18,,07 45 18.95,HD 62509.xml
+HD 63765,system,Distance [parsec],32.6,,32.62,HD 63765.xml
+HD 173416,system,Distance [parsec],135,,134.95,HD 173416.xml
+HD 177830,system,Distance [parsec],59.0,,59.03,HD 177830.xml
+HD 177830,system,Distance errorminus,2.2,,-2.77,HD 177830.xml
+HD 177830,system,Distance errorplus,2.2,,2.54,HD 177830.xml
+HD 179949,system,Declination,-24 10 45,,-24 10 45.7,HD 179949.xml
+HD 179949,system,Distance [parsec],27,,27.05,HD 179949.xml
+HD 180314,system,Distance [parsec],132,,131.75,HD 180314.xml
+HD 181342,system,Distance [parsec],110.6,,110.62,HD 181342.xml
+HD 181720,system,Distance [parsec],56,,55.93,HD 181720.xml
+HD 183263,system,Declination,+08 21 28.9,,+08 21 29.0,HD 183263.xml
+HD 183263,system,Distance [parsec],55.1,,52.83,HD 183263.xml
+HD 183263,system,Distance errorminus,2.8,,-3.13,HD 183263.xml
+HD 212301,system,Right ascension,22 27 30,,22 27 30.92,HD 212301.xml
+HD 212301,system,Distance [parsec],52.7,,52.72,HD 212301.xml
+HD 213240,system,Declination,-49 25 59,,-49 25 59.8,HD 213240.xml
+HD 215497,system,Distance [parsec],44,,43.53,HD 215497.xml
+HD 216435,system,Right ascension,22 53 37,,22 53 37.93,HD 216435.xml
+HD 216435,system,Declination,-48 35 53,,-48 35 53.8,HD 216435.xml
+HD 216435,system,Distance [parsec],33.3,,33.29,HD 216435.xml
+HD 216536,system,Right ascension,22 53 03.9725,,22 53 03.98,HD 216536.xml
+HD 216770,system,Right ascension,22 55 53,,22 55 53.71,HD 216770.xml
+HD 216770,system,Declination,-26 39 31,,-26 39 31.5,HD 216770.xml
+HD 216770,system,Distance [parsec],38,,37.89,HD 216770.xml
+HD 217107,system,Distance [parsec],19.86,,19.72,HD 217107.xml
+HD 217107,system,Distance errorminus,0.15,,-0.30,HD 217107.xml
+HD 217107,system,Distance errorplus,0.15,,0.29,HD 217107.xml
+HD 217786,system,Right ascension,23 03 08.205,,23 03 08.20,HD 217786.xml
+HD 217786,system,Declination,-00 25 46.66,,-00 25 46.6,HD 217786.xml
+HD 217786,system,Distance [parsec],54.9,,54.80,HD 217786.xml
+HD 217786,system,Distance errorminus,2.3,,-2.00,HD 217786.xml
+HD 217786,system,Distance errorplus,2.3,,2.00,HD 217786.xml
+HD 218566,system,Distance [parsec],28.55,,29.94,HD 218566.xml
+HD 218566,system,Distance errorminus,0.93,,-1.11,HD 218566.xml
+HD 218566,system,Distance errorplus,0.93,,1.03,HD 218566.xml
+HD 219415,system,Right ascension,23 14 53.8203,,23 14 53.83,HD 219415.xml
+HD 220074,system,Distance [parsec],290.2,,289.02,HD 220074.xml
+HD 220689,system,Distance [parsec],44.6,,45.23,HD 220689.xml
+HD 221287,system,Distance [parsec],52.9,,52.88,HD 221287.xml
+HAT-P-30,system,Distance errorminus,8,,-8.00,HAT-P-30.xml
+HAT-P-32,system,Distance errorminus,5,,-5.00,HAT-P-32.xml
+HAT-P-33,system,Distance errorminus,9,,-9.00,HAT-P-33.xml
+HAT-P-34,system,Declination,+18 06 17.42,,+18 06 17.5,HAT-P-34.xml
+Kepler-115,system,Right ascension,19 50 50,,19 50 50.84,Kepler-115.xml
+Kepler-115,system,Declination,+45 15 42,,+45 15 42.9,Kepler-115.xml
+Kepler-116,system,Declination,+43 32 12,,+43 32 12.6,Kepler-116.xml
+Kepler-117,system,Distance errorminus,50,,-50.00,Kepler-117.xml
+Kepler-120,system,Declination,+39 20 20,,+39 20 20.8,Kepler-120.xml
+Kepler-121,system,Right ascension,19 04 38,,19 04 38.90,Kepler-121.xml
+Kepler-121,system,Declination,+39 40 40,,+39 40 40.8,Kepler-121.xml
+Kepler-122,system,Right ascension,19 24 26,,19 24 26.85,Kepler-122.xml
+Kepler-122,system,Declination,+39 56 56,,+39 56 56.8,Kepler-122.xml
+Kepler-123,system,Right ascension,19 47 59,,19 47 59.67,Kepler-123.xml
+Kepler-124,system,Right ascension,19 07 00,,19 07 00.67,Kepler-124.xml
+Kepler-124,system,Declination,+49 03 53,,+49 03 53.7,Kepler-124.xml
+Kepler-193,system,Right ascension,19 45 59,,19 45 59.66,Kepler-193.xml
+Kepler-198,system,Right ascension,19 22 41,,19 22 41.55,Kepler-198.xml
+Kepler-198,system,Declination,+38 41 27,,+38 41 27.6,Kepler-198.xml
+Kepler-199,system,Declination,+40 14 10,,+40 14 10.6,Kepler-199.xml
+Kepler-200,system,Declination,+41 14 14,,+41 14 14.9,Kepler-200.xml
+Kepler-203,system,Right ascension,19 48 21,,19 48 21.59,Kepler-203.xml
+Kepler-203,system,Declination,+41 23 16,,+41 23 16.9,Kepler-203.xml
+Kepler-204,system,Declination,+41 45 42,,+41 45 42.9,Kepler-204.xml
+Kepler-205,system,Right ascension,19 01 08,,19 01 08.91,Kepler-205.xml
+Kepler-206,system,Declination,+41 50 01,,+41 50 01.9,Kepler-206.xml
+HD 65216,system,Distance [parsec],34.3,,35.59,HD 65216.xml
+HD 66141,system,Distance [parsec],80.9,,80.06,HD 66141.xml
+HD 66428,system,Declination,-01 09 45.7,,-01 09 45.8,HD 66428.xml
+HD 66428,system,Distance [parsec],54.9,,55.04,HD 66428.xml
+HD 66428,system,Distance errorminus,3.2,,-4.03,HD 66428.xml
+HD 66428,system,Distance errorplus,3.2,,3.52,HD 66428.xml
+HD 67087,system,Right ascension,08 07 39.75457,,08 07 39.76,HD 67087.xml
+HD 67087,system,Distance [parsec],88.8,,88.81,HD 67087.xml
+HD 68988,system,Declination,+61 27 38,,+61 27 38.6,HD 68988.xml
+HD 68988,system,Distance [parsec],58,,58.82,HD 68988.xml
+HD 69830,system,Right ascension,08 18 23,,08 18 23.95,HD 69830.xml
+HD 69830,system,Declination,-12 37 55,,-12 37 55.8,HD 69830.xml
+HD 69830,system,Distance [parsec],12.6,,12.58,HD 69830.xml
+HD 70642,system,Declination,-39 42 19,,-39 42 19.5,HD 70642.xml
+HD 70642,system,Distance [parsec],28.8,,28.76,HD 70642.xml
+HD 72659,system,Declination,-01 34 05,,-01 34 05.6,HD 72659.xml
+HD 72659,system,Distance [parsec],49.8,,51.40,HD 72659.xml
+HD 73267,system,Distance [parsec],54.2,,54.91,HD 73267.xml
+HD 73267,system,Distance errorminus,2.7,,-3.00,HD 73267.xml
+HD 73267,system,Distance errorplus,2.7,,3.00,HD 73267.xml
+HD 73526,system,Declination,-41 19 08,,-41 19 08.8,HD 73526.xml
+HD 73526,system,Distance [parsec],99,,94.61,HD 73526.xml
+HD 73534,system,Distance [parsec],96.99,,81.00,HD 73534.xml
+HD 74156,system,Declination,+04 34 41.1,,+04 34 41.2,HD 74156.xml
+HD 74156,system,Distance [parsec],64.4,,64.60,HD 74156.xml
+HD 74156,system,Distance errorminus,2.2,,-4.60,HD 74156.xml
+HD 74156,system,Distance errorplus,2.2,,4.60,HD 74156.xml
+HD 75784,system,Distance errorminus,6.2,,-6.20,HD 75784.xml
+HD 75898,system,Declination,+33 03 25,,+33 03 24.5,HD 75898.xml
+HD 77338,system,Distance [parsec],40.75,,41.27,HD 77338.xml
+HD 79498,system,Distance [parsec],49,,48.64,HD 79498.xml
+HD 81688,system,Distance [parsec],85.8,,88.26,HD 81688.xml
+HD 81688,system,Distance errorminus,2.9,,-7.07,HD 81688.xml
+HD 81688,system,Distance errorplus,2.9,,6.09,HD 81688.xml
+HD 82943,system,Right ascension,09 34 50,,09 34 50.73,HD 82943.xml
+HD 82886,system,Distance [parsec],125,,112.23,HD 82886.xml
+HD 83443,system,Right ascension,09 37 11,,09 37 11.83,HD 83443.xml
+HD 83443,system,Declination,-43 16 19,,-43 16 19.9,HD 83443.xml
+HD 83443,system,Distance [parsec],43.54,,43.53,HD 83443.xml
+HD 222155,system,Declination,+48 59 47,,+48 59 47.5,HD 222155.xml
+HD 222155,system,Distance [parsec],49.1,,50.45,HD 222155.xml
+HD 222582,system,Right ascension,23 41 51,,23 41 51.53,HD 222582.xml
+HD 222582,system,Declination,-05 59 08,,-05 59 08.7,HD 222582.xml
+HD 222582,system,Distance [parsec],42,,41.95,HD 222582.xml
+HD 231701,system,Distance [parsec],108.4,,108.46,HD 231701.xml
+HD 233604,system,Right ascension,09 09 48.8205,,09 09 48.81,HD 233604.xml
+HD 290327,system,Distance [parsec],54.9,,56.70,HD 290327.xml
+HD 285507,system,Distance [parsec],41.339,,42.43,HD 285507.xml
+HD 330075,system,Right ascension,15 49 37,,15 49 37.69,HD 330075.xml
+HD 330075,system,Declination,-49 57 48,,-49 57 48.7,HD 330075.xml
+HIP 5158,system,Distance [parsec],45,,44.80,HIP 5158.xml
+HIP 12961,system,Distance [parsec],23,,23.80,HIP 12961.xml
+HIP 14810,system,Distance [parsec],52.9,,52.88,HIP 14810.xml
+HIP 57050,system,Distance [parsec],11,,11.03,HIP 57050.xml
+HIP 57274,system,Declination,+30 57 33,,+30 57 33.5,HIP 57274.xml
+HIP 57274,system,Distance [parsec],25.92,,25.87,HIP 57274.xml
+Ross 458,system,Distance [parsec],114,,11.43,Ross 458.xml
+HIP 63242,system,Distance [parsec],135,,149.25,HIP 63242.xml
+HIP 70849,system,Distance [parsec],24,,23.98,HIP 70849.xml
+HD 185269,system,Distance [parsec],50.28,,47.37,HD 185269.xml
+HD 185269,system,Distance errorminus,1.42,,-1.72,HD 185269.xml
+HD 185269,system,Distance errorplus,1.42,,1.60,HD 185269.xml
+HD 187085,system,Right ascension,19 49 33,,19 49 33.97,HD 187085.xml
+HD 187123,system,Distance [parsec],48.3,,47.92,HD 187123.xml
+HD 187123,system,Distance errorminus,1.2,,-1.69,HD 187123.xml
+HD 187123,system,Distance errorplus,1.2,,1.58,HD 187123.xml
+HD 188015,system,Right ascension,19 52 04,,19 52 04.54,HD 188015.xml
+HD 188015,system,Distance [parsec],52.6,,52.63,HD 188015.xml
+HD 189733,system,Right ascension,20 00 43,,20 00 43.71,HD 189733.xml
+HD 189733,system,Distance [parsec],19.3,,19.25,HD 189733.xml
+Kepler-125,system,Right ascension,19 53 01,,19 53 01.95,Kepler-125.xml
+Kepler-125,system,Declination,+47 36 17,,+47 36 17.8,Kepler-125.xml
+Kepler-126,system,Declination,+44 12 30,,+44 12 30.8,Kepler-126.xml
+Kepler-127,system,Right ascension,19 00 45,,19 00 45.60,Kepler-127.xml
+Kepler-127,system,Declination,+46 01 40,,+46 01 40.7,Kepler-127.xml
+Kepler-128,system,Declination,+43 58 48.64,,+43 58 48.8,Kepler-128.xml
+Kepler-129,system,Right ascension,19 01 14,,19 01 14.71,Kepler-129.xml
+Kepler-129,system,Declination,+47 50 54,,+47 50 54.9,Kepler-129.xml
+Kepler-132,system,Right ascension,18 52 56,,18 52 56.59,Kepler-132.xml
+Kepler-132,system,Declination,+41 20 34,,+41 20 34.9,Kepler-132.xml
+Kepler-133,system,Right ascension,19 49 06,,19 49 06.71,Kepler-133.xml
+Kepler-135,system,Right ascension,19 21 58,,19 21 58.83,Kepler-135.xml
+Kepler-135,system,Declination,+38 47 43,,+38 47 43.7,Kepler-135.xml
+Kepler-136,system,Declination,+42 35 55.73,,+42 35 55.6,Kepler-136.xml
+Kepler-137,system,Right ascension,18 48 32,,18 48 32.53,Kepler-137.xml
+Kepler-137,system,Declination,+43 02 20,,+43 02 20.8,Kepler-137.xml
+Kepler-1380,system,Right ascension,19 12 28,,19 21 31.57,Kepler-1380.xml
+Kepler-1380,system,Declination,+42 26 26,,+43 17 34.7,Kepler-1380.xml
+Kepler-207,system,Declination,+42 09 57,,+42 09 57.8,Kepler-207.xml
+Kepler-208,system,Right ascension,19 35 33,,19 35 33.65,Kepler-208.xml
+Kepler-208,system,Declination,+42 31 40,,+42 31 40.8,Kepler-208.xml
+Kepler-209,system,Right ascension,19 24 40,,19 24 40.69,Kepler-209.xml
+Kepler-209,system,Declination,+42 38 26,,+42 38 26.9,Kepler-209.xml
+Kepler-210,system,Right ascension,19 30 00,,19 30 00.81,Kepler-210.xml
+Kepler-212,system,Right ascension,19 10 28,,19 10 29.00,Kepler-212.xml
+Kepler-212,system,Declination,+43 08 29,,+43 08 30.0,Kepler-212.xml
+Kepler-213,system,Right ascension,19 23 17,,19 23 17.80,Kepler-213.xml
+Kepler-213,system,Declination,+44 38 49,,+44 38 49.9,Kepler-213.xml
+HAT-P-36,system,Right ascension,12 33 03.909,,12 33 03.90,HAT-P-36.xml
+HAT-P-36,system,Declination,+44 54 55.18,,+44 54 55.3,HAT-P-36.xml
+HAT-P-38,system,Declination,+32 14 47,,+32 14 46.1,HAT-P-38.xml
+HAT-P-41,system,Declination,+04 40 20,,+04 40 20.7,HAT-P-41.xml
+HAT-P-42,system,Right ascension,09 01 22,,09 01 22.65,HAT-P-42.xml
+HAT-P-43,system,Distance [parsec],543,,542.00,HAT-P-43.xml
+HAT-P-44,system,Distance [parsec],374,,363.00,HAT-P-44.xml
+HAT-P-44,system,Distance errorminus,23,,-17.00,HAT-P-44.xml
+HAT-P-44,system,Distance errorplus,42,,31.00,HAT-P-44.xml
+HAT-P-45,system,Right ascension,18 17 29,,18 17 29.58,HAT-P-45.xml
+HAT-P-45,system,Distance errorminus,17,,-17.00,HAT-P-45.xml
+HD 86081,system,Distance [parsec],91,,91.16,HD 86081.xml
+HD 87883,system,Distance [parsec],18.1,,18.06,HD 87883.xml
+HD 88133,system,Right ascension,10 10 07,,10 10 07.68,HD 88133.xml
+HD 88133,system,Declination,+18 11 12,,+18 11 12.7,HD 88133.xml
+HD 88133,system,Distance [parsec],74.5,,74.46,HD 88133.xml
+HD 89744,system,Right ascension,10 22 10,,10 22 10.56,HD 89744.xml
+HD 89744,system,Distance [parsec],40,,39.00,HD 89744.xml
+HD 90156,system,Distance [parsec],39.6,,22.09,HD 90156.xml
+HD 93083,system,Right ascension,10 44 20,,10 44 20.91,HD 93083.xml
+HD 95086,system,Distance [parsec],90.27,,91.57,HD 95086.xml
+HD 95127,system,Distance [parsec],327,,332.00,HD 95127.xml
+HD 95127,system,Distance errorminus,106,,-110.00,HD 95127.xml
+HD 95127,system,Distance errorplus,106,,110.00,HD 95127.xml
+HD 96063,system,Distance [parsec],158,,132.80,HD 96063.xml
+HD 96167,system,Distance [parsec],84,,84.03,HD 96167.xml
+HD 97658,system,Distance [parsec],21.11,,21.30,HD 97658.xml
+HD 97658,system,Distance errorminus,0.34,,-0.45,HD 97658.xml
+HD 97658,system,Distance errorplus,0.34,,0.43,HD 97658.xml
+HD 98219,system,Right ascension,11 17 47,,11 17 47.55,HD 98219.xml
+HD 98219,system,Declination,-23 58 31,,-23 58 31.5,HD 98219.xml
+HD 98219,system,Distance [parsec],134,,150.38,HD 98219.xml
+HD 99109,system,Declination,-01 31 44,,-01 31 44.7,HD 99109.xml
+HD 99109,system,Distance [parsec],60.5,,60.46,HD 99109.xml
+HD 99706,system,Declination,+43 58 00,,+43 57 59.7,HD 99706.xml
+HD 99706,system,Distance [parsec],129,,130.89,HD 99706.xml
+HD 100546,system,Distance errorminus,4,,-4.00,HD 100546.xml
+HD 100655,system,Distance [parsec],122,,140.85,HD 100655.xml
+HD 100777,system,Declination,-04 45 21,,-04 45 20.5,HD 100777.xml
+HD 101930,system,Declination,-58 00 24,,-58 00 24.8,HD 101930.xml
+HD 101930,system,Distance [parsec],30.49,,30.50,HD 101930.xml
+HD 102272,system,Distance [parsec],360,,164.20,HD 102272.xml
+HD 102329,system,Right ascension,11 46 46,,11 46 46.64,HD 102329.xml
+HD 102329,system,Declination,+03 28 27,,+03 28 27.5,HD 102329.xml
+HD 102329,system,Distance [parsec],158,,138.50,HD 102329.xml
+HD 102956,system,Distance [parsec],126,,121.07,HD 102956.xml
+HD 190984,system,Distance [parsec],103,,189.39,HD 190984.xml
+HD 192263,system,Right ascension,20 14 00,,20 13 59.85,HD 192263.xml
+HD 192263,system,Distance [parsec],19.9,,19.89,HD 192263.xml
+HD 195019,system,Right ascension,20 28 17,,20 28 18.63,HD 195019.xml
+HD 195019,system,Declination,+18 46 12,,+18 46 10.2,HD 195019.xml
+HD 195019,system,Distance [parsec],37.36,,37.35,HD 195019.xml
+HD 196067,system,Distance [parsec],44.3,,43.57,HD 196067.xml
+HD 196885,system,Right ascension,20 39 51,,20 39 51.88,HD 196885.xml
+HD 196885,system,Declination,+11 14 58,,+11 14 58.7,HD 196885.xml
+HD 196885,system,Distance [parsec],33,,32.99,HD 196885.xml
+HD 200964,system,Distance [parsec],68.4,,68.35,HD 200964.xml
+HD 200964,system,Distance errorminus,4.8,,-5.18,HD 200964.xml
+HD 200964,system,Distance errorplus,4.8,,4.50,HD 200964.xml
+HD 202206,system,Right ascension,21 14 57,,21 14 57.77,HD 202206.xml
+HD 204941,system,Distance [parsec],27,,26.95,HD 204941.xml
+HD 205739,system,Distance [parsec],90.3,,90.33,HD 205739.xml
+HD 207832,system,Right ascension,21 52 35,,21 52 36.28,HD 207832.xml
+HD 207832,system,Declination,-26 49 44,,-26 01 35.6,HD 207832.xml
+HD 207832,system,Distance [parsec],54.4,,55.31,HD 207832.xml
+HD 208487,system,Right ascension,21 57 19,,21 57 19.85,HD 208487.xml
+HD 208487,system,Distance [parsec],45,,44.00,HD 208487.xml
+HD 209458,system,Right ascension,22 03 10,,22 03 10.77,HD 209458.xml
+HD 209458,system,Distance [parsec],47,,47.08,HD 209458.xml
+HD 210277,system,Right ascension,22 09 29,,22 09 29.87,HD 210277.xml
+HD 210277,system,Declination,-07 32 32,,-07 32 55.2,HD 210277.xml
+HD 212771,system,Distance [parsec],131,,121.80,HD 212771.xml
+HIP 78530,system,Distance errorminus,13.0,,-13.00,HIP 78530.xml
+Kepler-18,system,Declination,+44 44 46.94,,+44 44 46.8,Kepler-18.xml
+WASP-119,system,Right ascension,03 43 44.02,,03 43 44.03,WASP-119.xml
+WASP-119,system,Declination,-65 11 37.8,,-65 11 37.9,WASP-119.xml
+WASP-119,system,Distance errorminus,29,,-29.00,WASP-119.xml
+WASP-124,system,Right ascension,22 10 51.43,,22 10 51.44,WASP-124.xml
+WASP-124,system,Distance errorminus,11,,-11.00,WASP-124.xml
+WASP-126,system,Right ascension,04 13 29.72,,04 13 29.73,WASP-126.xml
+WASP-126,system,Distance errorminus,15,,-15.00,WASP-126.xml
+WASP-129,system,Distance errorminus,7,,-7.00,WASP-129.xml
+WASP-133,system,Right ascension,20 58 18.08,,20 58 18.09,WASP-133.xml
+WASP-133,system,Declination,-35 47 47.5,,-35 47 47.6,WASP-133.xml
+WASP-133,system,Distance errorminus,21,,-21.00,WASP-133.xml
+Kepler-766,system,Declination,+37 58 11,,+37 58 11.5,Kepler-766.xml
+Kepler-768,system,Declination,+38 23 37,,+38 23 36.5,Kepler-768.xml
+Kepler-271,system,Right ascension,18 52 00,,18 52 00.72,Kepler-271.xml
+Kepler-66,system,Distance errorminus,90,,-90.00,Kepler-66.xml
+Kepler-77,system,Right ascension,19 18 25,,19 18 25.91,Kepler-77.xml
+Kepler-77,system,Distance errorminus,70,,-70.00,Kepler-77.xml
+Kepler-8,system,Distance errorminus,180,,-180.00,Kepler-8.xml
+OGLE-TR-10,system,Declination,-29 52 34,,-29 52 34.9,OGLE-TR-10.xml
+Oph 11,system,Right ascension,16 22 25,,19 52 51.63,Oph 11.xml
+Oph 11,system,Declination,-24 05 14,,+39 57 18.4,Oph 11.xml
+Oph 11,system,Distance [parsec],145,,1000.00,Oph 11.xml
+POTS-1,system,Distance errorminus,600,,-600.00,POTS-1.xml
+PSR 1257+12,system,Distance [parsec],710,,600.00,PSR 1257+12.xml
+PSR 1257+12,system,Distance errorminus,38,,-100.00,PSR 1257+12.xml
+PSR 1257+12,system,Distance errorplus,43,,100.00,PSR 1257+12.xml
+Pr0201,system,Right ascension,08 41 43,,08 41 43.82,Pr0201.xml
+Pr0201,system,Declination,+20 13 36,,+20 13 36.8,Pr0201.xml
+WASP-2,system,Distance [parsec],165.8,,166.00,WASP-2.xml
+WASP-2,system,Distance errorminus,37.0,,-30.00,WASP-2.xml
+WASP-2,system,Distance errorplus,25.6,,30.00,WASP-2.xml
+WASP-29,system,Distance [parsec],80,,70.00,WASP-29.xml
+WASP-33,system,Distance [parsec],116,,116.14,WASP-33.xml
+WASP-37,system,Distance [parsec],338,,343.00,WASP-37.xml
+WASP-41,system,Right ascension,12 42 28.497,,12 42 28.50,WASP-41.xml
+WASP-41,system,Declination,-30 38 23.55,,-30 38 23.5,WASP-41.xml
+WASP-41,system,Distance errorminus,60,,-60.00,WASP-41.xml
+WASP-49,system,Distance errorminus,20,,-20.00,WASP-49.xml
+WASP-55,system,Right ascension,13 55 02,,13 35 01.95,WASP-55.xml
+WASP-55,system,Declination,-17 30 13,,-17 30 12.5,WASP-55.xml
+WASP-59,system,Right ascension,23 18 29.54,,23 18 29.55,WASP-59.xml
+WASP-59,system,Distance errorminus,25,,-25.00,WASP-59.xml
+WASP-62,system,Declination,-63 59 18.3,,-63 59 18.4,WASP-62.xml
+WASP-82,system,Distance errorminus,30,,-30.00,WASP-82.xml
+WASP-97,system,Declination,-55 46 19,,-55 46 19.5,WASP-97.xml
+XO-4,system,Declination,+58 16 05.005,,+58 16 05.2,XO-4.xml
+Kepler-239,system,Right ascension,19 36 48,,19 36 48.51,Kepler-239.xml
+Kepler-240,system,Declination,+40 45 00,,+40 45 00.9,Kepler-240.xml
+Kepler-242,system,Right ascension,19 06 15,,19 06 15.77,Kepler-242.xml
+Kepler-243,system,Right ascension,19 00 26,,19 00 26.51,Kepler-243.xml
+Kepler-244,system,Declination,+42 18 04,,+42 18 04.9,Kepler-244.xml
+Kepler-245,system,Declination,+42 26 10,,+42 26 10.7,Kepler-245.xml
+Kepler-248,system,Right ascension,19 32 14,,19 32 14.73,Kepler-248.xml
+Kepler-248,system,Declination,+43 34 52,,+43 34 52.9,Kepler-248.xml
+Kepler-249,system,Declination,+43 39 30,,+43 39 30.7,Kepler-249.xml
+Kepler-250,system,Right ascension,19 18 22,,19 18 22.74,Kepler-250.xml
+Kepler-251,system,Right ascension,19 46 15,,19 46 15.90,Kepler-251.xml
+Kepler-252,system,Declination,+44 32 45,,+44 32 45.5,Kepler-252.xml
+Kepler-254,system,Right ascension,19 12 39,,19 12 39.53,Kepler-254.xml
+Kepler-255,system,Declination,+45 58 36,,+45 58 36.6,Kepler-255.xml
+Kepler-256,system,Declination,+46 05 50,,+46 05 50.6,Kepler-256.xml
+Kepler-257,system,Right ascension,19 49 15,,19 49 15.84,Kepler-257.xml
+Kepler-257,system,Declination,+46 01 23,,+46 01 23.8,Kepler-257.xml
+Kepler-258,system,Declination,+46 34 45,,+46 34 45.6,Kepler-258.xml
+Kepler-259,system,Right ascension,19 12 50,,19 12 50.86,Kepler-259.xml
+Kepler-260,system,Declination,+38 00 50,,+38 00 50.8,Kepler-260.xml
+Kepler-261,system,Right ascension,19 25 27,,19 25 27.55,Kepler-261.xml
+Kepler-262,system,Right ascension,19 22 54,,19 22 54.88,Kepler-262.xml
+Kepler-262,system,Declination,+37 15 09,,+37 15 09.5,Kepler-262.xml
+Kepler-263,system,Right ascension,19 29 52,,19 29 52.74,Kepler-263.xml
+Kepler-264,system,Right ascension,19 28 10,,19 28 10.71,Kepler-264.xml
+Kepler-265,system,Right ascension,19 22 02,,19 22 02.51,Kepler-265.xml
+Kepler-266,system,Declination,+44 10 00,,+44 10 00.9,Kepler-266.xml
+Kepler-279,system,Right ascension,19 09 33,,19 09 33.89,Kepler-279.xml
+Kepler-267,system,Declination,+47 09 26,,+47 09 26.9,Kepler-267.xml
+Kepler-269,system,Right ascension,19 20 51,,19 20 51.64,Kepler-269.xml
+Kepler-269,system,Declination,+41 46 33,,+41 46 33.5,Kepler-269.xml
+Kepler-272,system,Right ascension,19 56 30,,19 56 30.61,Kepler-272.xml
+Kepler-272,system,Declination,+47 35 37,,+47 35 37.8,Kepler-272.xml
+Kepler-273,system,Right ascension,19 25 12,,19 25 12.53,Kepler-273.xml
+Kepler-273,system,Declination,+47 41 51,,+47 41 51.9,Kepler-273.xml
+Kepler-275,system,Declination,+38 30 53,,+38 30 53.7,Kepler-275.xml
+Kepler-276,system,Declination,+39 02 10,,+39 02 10.8,Kepler-276.xml
+Kepler-277,system,Right ascension,19 06 19,,19 06 19.96,Kepler-277.xml
+Kepler-277,system,Declination,+39 04 37,,+39 04 38.0,Kepler-277.xml
+Kepler-278,system,Right ascension,19 20 25,,19 20 25.73,Kepler-278.xml
+Kepler-280,system,Right ascension,19 25 33,,19 25 33.72,Kepler-280.xml
+Kepler-281,system,Right ascension,19 36 25,,19 36 25.97,Kepler-281.xml
+Kepler-282,system,Right ascension,18 58 42,,18 58 42.55,Kepler-282.xml
+Kepler-282,system,Declination,+44 47 51,,+44 47 51.7,Kepler-282.xml
+Kepler-284,system,Declination,+47 43 46,,+47 43 46.7,Kepler-284.xml
+Kepler-285,system,Right ascension,19 25 33,,19 25 33.82,Kepler-285.xml
+Kepler-287,system,Right ascension,19 23 42,,19 23 42.59,Kepler-287.xml
+Kepler-287,system,Declination,+48 26 36,,+48 26 36.8,Kepler-287.xml
+Kepler-288,system,Right ascension,19 15 39,,19 15 39.94,Kepler-288.xml
+Kepler-288,system,Declination,+39 35 40,,+39 35 41.0,Kepler-288.xml
+Kepler-289,system,Right ascension,19 49 51,,19 49 51.68,Kepler-289.xml
+Kepler-289,system,Distance errorminus,14,,-14.00,Kepler-289.xml
+Kepler-290,system,Declination,+42 40 53,,+42 40 53.6,Kepler-290.xml
+Kepler-291,system,Right ascension,19 11 39,,19 11 39.93,Kepler-291.xml
+Kepler-292,system,Right ascension,19 43 03,,19 43 03.87,Kepler-292.xml
+Kepler-293,system,Right ascension,19 05 25,,19 05 25.93,Kepler-293.xml
+Kepler-294,system,Declination,+46 03 33,,+46 03 33.5,Kepler-294.xml
+Kepler-296,system,Right ascension,19 06 09.602,,19 06 09.60,Kepler-296.xml
+Kepler-296,system,Distance [parsec],558.5,,226.00,Kepler-296.xml
+Kepler-297,system,Declination,+48 46 39,,+48 46 39.5,Kepler-297.xml
+Kepler-298,system,Right ascension,18 52 09,,18 52 09.55,Kepler-298.xml
+Kepler-299,system,Right ascension,18 52 49,,18 52 49.67,Kepler-299.xml
+Kepler-299,system,Declination,+48 34 49,,+48 34 49.8,Kepler-299.xml
+Kepler-300,system,Declination,+48 35 58,,+48 35 59.0,Kepler-300.xml
+Kepler-301,system,Right ascension,18 55 55,,18 55 55.91,Kepler-301.xml
+Kepler-301,system,Declination,+49 13 58,,+49 13 58.8,Kepler-301.xml
+Kepler-302,system,Declination,+43 37 45,,+43 37 45.6,Kepler-302.xml
+Kepler-303,system,Right ascension,18 52 32,,18 52 32.51,Kepler-303.xml
+Kepler-305,system,Right ascension,19 56 53,,19 56 53.83,Kepler-305.xml
+Kepler-305,system,Declination,+40 20 35,,+40 20 35.5,Kepler-305.xml
+Kepler-307,system,Right ascension,19 51 10,,19 51 10.83,Kepler-307.xml
+Kepler-307,system,Declination,+40 25 03,,+40 25 03.7,Kepler-307.xml
+Kepler-309,system,Declination,+46 57 40,,+46 57 40.6,Kepler-309.xml
+Kepler-311,system,Right ascension,18 48 14,,18 48 14.71,Kepler-311.xml
+Kepler-311,system,Declination,+47 05 07,,+47 05 07.8,Kepler-311.xml
+Kepler-312,system,Right ascension,19 53 34,,19 53 34.99,Kepler-312.xml
+Kepler-313,system,Right ascension,19 53 10,,19 53 10.78,Kepler-313.xml
+Kepler-313,system,Declination,+48 46 31,,+48 46 31.7,Kepler-313.xml
+Kepler-314,system,Right ascension,19 38 41,,19 38 41.79,Kepler-314.xml
+Kepler-315,system,Right ascension,19 52 05,,19 52 05.54,Kepler-315.xml
+Kepler-315,system,Declination,+43 21 48,,+43 21 48.7,Kepler-315.xml
+Kepler-316,system,Declination,+44 11 02,,+44 11 02.8,Kepler-316.xml
+Kepler-317,system,Right ascension,19 39 46,,19 39 46.53,Kepler-317.xml
+Kepler-318,system,Right ascension,19 53 55,,19 53 55.88,Kepler-318.xml
+Kepler-319,system,Right ascension,19 15 14,,19 15 14.87,Kepler-319.xml
+Kepler-321,system,Right ascension,19 37 48,,19 37 48.88,Kepler-321.xml
+Kepler-322,system,Right ascension,18 45 23,,18 45 23.72,Kepler-322.xml
+Kepler-322,system,Declination,+44 17 42,,+44 17 42.9,Kepler-322.xml
+Kepler-323,system,Right ascension,19 25 31,,19 25 31.74,Kepler-323.xml
+Kepler-323,system,Declination,+38 07 38,,+38 07 38.9,Kepler-323.xml
+Kepler-327,system,Declination,+44 05 15,,+44 05 15.6,Kepler-327.xml
+Kepler-329,system,Declination,+45 13 38,,+45 13 38.7,Kepler-329.xml
+Kepler-333,system,Right ascension,19 29 08,,19 29 08.66,Kepler-333.xml
+Kepler-333,system,Declination,+40 54 48,,+40 54 48.9,Kepler-333.xml
+Kepler-334,system,Right ascension,19 08 33,,19 08 33.76,Kepler-334.xml
+Kepler-334,system,Declination,+47 06 54,,+47 06 54.7,Kepler-334.xml
+Kepler-336,system,Declination,+41 19 52,,+41 19 52.9,Kepler-336.xml
+Kepler-337,system,Right ascension,19 20 14,,19 20 14.52,Kepler-337.xml
+Kepler-338,system,Right ascension,18 51 54,,18 51 54.95,Kepler-338.xml
+Kepler-338,system,Declination,+40 47 03,,+40 47 03.6,Kepler-338.xml
+Kepler-339,system,Declination,+48 26 40,,+48 26 40.7,Kepler-339.xml
+Kepler-341,system,Right ascension,19 19 26,,19 19 26.78,Kepler-341.xml
+Kepler-341,system,Declination,+43 28 21,,+43 28 22.0,Kepler-341.xml
+Kepler-343,system,Right ascension,19 27 50,,19 27 50.56,Kepler-343.xml
+Kepler-343,system,Declination,+42 25 58,,+42 25 58.8,Kepler-343.xml
+Kepler-344,system,Right ascension,19 29 59,,19 29 59.91,Kepler-344.xml
+Kepler-344,system,Declination,+46 19 27,,+46 19 27.9,Kepler-344.xml
+Kepler-345,system,Right ascension,19 40 54,,19 40 54.91,Kepler-345.xml
+Kepler-345,system,Declination,+45 58 15,,+45 58 15.7,Kepler-345.xml
+Kepler-346,system,Right ascension,19 12 02,,19 12 02.86,Kepler-346.xml
+Kepler-347,system,Right ascension,19 16 47,,19 16 47.90,Kepler-347.xml
+Kepler-347,system,Declination,+49 18 20,,+49 18 20.6,Kepler-347.xml
+Kepler-350,system,Right ascension,19 01 40,,19 01 40.71,Kepler-350.xml
+Kepler-350,system,Declination,+39 42 21,,+39 42 22.0,Kepler-350.xml
+Kepler-353,system,Right ascension,19 47 25,,19 47 25.59,Kepler-353.xml
+Kepler-355,system,Right ascension,19 03 11,,19 03 11.87,Kepler-355.xml
+Kepler-358,system,Declination,+48 16 52,,+48 16 53.0,Kepler-358.xml
+WASP-117,system,Right ascension,02 27 06.0972,,02 27 06.10,WASP-117.xml
+WASP-117,system,Declination,-50 17 04.354,,-50 17 04.3,WASP-117.xml
+WTS-1,system,Right ascension,19 35 56.41,,19 35 58.37,WTS-1.xml
+WTS-1,system,Declination,+36 17 46.76,,+36 17 25.2,WTS-1.xml
+XO-1,system,Declination,+28 10 11,,+28 10 10.5,XO-1.xml
+XO-1,system,Distance [parsec],200,,172.00,XO-1.xml
+XO-3,system,Declination,+57 49 01,,+57 49 01.9,XO-3.xml
+XO-3,system,Distance [parsec],260,,174.00,XO-3.xml
+XO-5,system,Declination,+39 05 41,,+39 05 40.5,XO-5.xml
+XO-5,system,Distance [parsec],255,,260.00,XO-5.xml
+WASP-106,system,Distance errorminus,21,,-21.00,WASP-106.xml
+HATS-9,system,Right ascension,19 23 14.28,,19 23 14.42,HATS-9.xml
+HATS-9,system,Distance errorminus,30,,-30.00,HATS-9.xml
+HATS-10,system,Right ascension,19 37 13.80,,19 37 13.64,HATS-10.xml
+HATS-10,system,Distance errorminus,24,,-24.00,HATS-10.xml
+Kepler-449,system,Right ascension,19 34 55.874,,19 34 55.88,Kepler-449.xml
+HAT-P-55,system,Right ascension,17 37 05.52,,17 37 05.63,HAT-P-55.xml
+HAT-P-55,system,Distance errorminus,19,,-19.00,HAT-P-55.xml
+Kepler-452,system,Right ascension,19 44 00,,19 44 00.89,Kepler-452.xml
+HAT-P-56,system,Declination,+27 15 08.2182,,+27 15 08.3,HAT-P-56.xml
+HAT-P-56,system,Distance errorminus,7.1,,-7.10,HAT-P-56.xml
+Kepler-444,system,Distance errorminus,1.1,,-1.10,Kepler-444.xml
+Kepler-445,system,Right ascension,19 54 56.668,,19 54 56.66,Kepler-445.xml
+Kepler-445,system,Declination,+46 29 55.08,,+46 29 54.8,Kepler-445.xml
+Kepler-1613,system,Declination,+43 25 15,,+43 25 15.5,Kepler-1613.xml
+Kepler-1629,system,Declination,+43 46 27,,+43 46 27.5,Kepler-1629.xml
+Kepler-359,system,Declination,+42 11 46,,+42 11 46.9,Kepler-359.xml
+Kepler-360,system,Declination,+44 46 53,,+44 46 53.6,Kepler-360.xml
+Kepler-361,system,Right ascension,19 47 12,,19 47 12.83,Kepler-361.xml
+Kepler-362,system,Declination,+47 31 47,,+47 31 47.7,Kepler-362.xml
+Kepler-364,system,Right ascension,18 46 16,,18 46 16.78,Kepler-364.xml
+Kepler-365,system,Declination,+49 07 49,,+49 07 49.6,Kepler-365.xml
+Kepler-366,system,Declination,+49 05 03,,+49 05 04.0,Kepler-366.xml
+Kepler-367,system,Declination,+49 58 53,,+49 58 53.9,Kepler-367.xml
+Kepler-368,system,Declination,+45 23 16,,+45 23 16.6,Kepler-368.xml
+Kepler-369,system,Right ascension,19 34 41,,19 34 41.82,Kepler-369.xml
+Kepler-370,system,Declination,+40 54 58,,+40 54 58.7,Kepler-370.xml
+51 Peg,system,Right ascension,22 57 27,,22 57 27.98,51 Peg.xml
+51 Peg,system,Declination,+20 46 07,,+20 46 07.8,51 Peg.xml
+51 Peg,system,Distance [parsec],14.7,,15.36,51 Peg.xml
+6 Lyn,system,Distance [parsec],55.8,,56.95,6 Lyn.xml
+6 Lyn,system,Distance errorminus,1.5,,-2.58,6 Lyn.xml
+6 Lyn,system,Distance errorplus,1.5,,2.36,6 Lyn.xml
+75 Cet,system,Distance [parsec],81.4,,81.50,75 Cet.xml
+75 Cet,system,Distance errorminus,3.0,,-8.27,75 Cet.xml
+75 Cet,system,Distance errorplus,3.0,,6.87,75 Cet.xml
+AB Pic,system,Right ascension,06 19 12,,06 19 12.91,AB Pic.xml
+AB Pic,system,Declination,-58 03 15,,-58 03 15.5,AB Pic.xml
+AB Pic,system,Distance [parsec],45.5,,45.52,AB Pic.xml
+AB Pic,system,Distance errorminus,1.7,,-1.76,AB Pic.xml
+AB Pic,system,Distance errorplus,1.8,,1.64,AB Pic.xml
+BD+20 1790,system,Declination,+20 24 58.66,,+20 24 58.8,BD+20 1790.xml
+BD+20 1790,system,Distance errorminus,4,,-4.00,BD+20 1790.xml
+BD-10 3166,system,Right ascension,10 58 28.7798,,10 58 28.80,BD-10 3166.xml
+BD-10 3166,system,Distance [parsec],65.19,,80.00,BD-10 3166.xml
+BD-10 3166,system,Distance errorminus,13.64,,-10.00,BD-10 3166.xml
+BD-10 3166,system,Distance errorplus,13.64,,10.00,BD-10 3166.xml
+CT Cha,system,Distance errorminus,30,,-30.00,CT Cha.xml
+CoRoT-17,system,Right ascension,18 34 47,,18 34 47.82,CoRoT-17.xml
+CoRoT-20,system,Distance errorminus,120,,-120.00,CoRoT-20.xml
+CoRoT-26,system,Right ascension,18 39 00.13,,18 39 00.12,CoRoT-26.xml
+CoRoT-26,system,Declination,+06 58 11.71,,+06 58 11.2,CoRoT-26.xml
+CoRoT-26,system,Distance errorminus,110,,-110.00,CoRoT-26.xml
+FU Tau,system,Right ascension,04 23 35.386,,04 23 35.74,FU Tau.xml
+FU Tau,system,Declination,+25 03 03.05,,+25 02 59.6,FU Tau.xml
+Gliese 328,system,Declination,+01 32 56,,+01 32 47.4,Gliese 328.xml
+Gliese 328,system,Distance [parsec],19.8,,20.03,Gliese 328.xml
+Gliese 328,system,Distance errorminus,0.8,,-0.92,Gliese 328.xml
+Gliese 328,system,Distance errorplus,0.8,,0.85,Gliese 328.xml
+Gliese 3470,system,Declination,+15 23 30,,+15 23 29.4,Gliese 3470.xml
+Gliese 3470,system,Distance [parsec],30.7,,25.20,Gliese 3470.xml
+HD 219828,system,Distance [parsec],81.1,,77.90,HD 219828.xml
+WASP-120,system,Declination,-45 53 53.5,,-45 53 53.6,WASP-120.xml
+WASP-123,system,Right ascension,19 17 55.04,,19 17 54.88,WASP-123.xml
+WASP-123,system,Declination,-32 51 35.8,,-32 51 40.1,WASP-123.xml
+Kepler-1637,system,Declination,+48 09 15,,+48 09 15.5,Kepler-1637.xml
+Kepler-381,system,Right ascension,19 00 43,,19 00 43.87,Kepler-381.xml
+Kepler-381,system,Declination,+43 49 51,,+43 49 51.9,Kepler-381.xml
+Kepler-382,system,Right ascension,19 56 32,,19 56 32.68,Kepler-382.xml
+Kepler-382,system,Declination,+45 52 11,,+45 52 11.8,Kepler-382.xml
+Kepler-374,system,Declination,+42 22 13,,+42 22 13.8,Kepler-374.xml
+Kepler-376,system,Right ascension,19 26 25,,19 26 25.72,Kepler-376.xml
+Kepler-378,system,Right ascension,19 39 47,,19 39 47.66,Kepler-378.xml
+Kepler-379,system,Declination,+38 56 44,,+38 56 45.0,Kepler-379.xml
+Kepler-380,system,Right ascension,18 49 34,,18 49 34.71,Kepler-380.xml
+Kepler-380,system,Declination,+48 45 32,,+48 45 32.9,Kepler-380.xml
+Kepler-385,system,Declination,+50 20 11,,+50 20 11.6,Kepler-385.xml
+Kepler-386,system,Declination,+48 41 37,,+48 41 37.9,Kepler-386.xml
+Kepler-387,system,Right ascension,19 11 11,,19 11 11.56,Kepler-387.xml
+Kepler-388,system,Right ascension,18 59 18,,18 59 18.73,Kepler-388.xml
+GQ Lup,system,Declination,-35 39 03,,-35 39 05.1,GQ Lup.xml
+GQ Lup,system,Distance [parsec],140,,139.00,GQ Lup.xml
+HAT-P-4,system,Distance [parsec],310,,314.00,HAT-P-4.xml
+HATS-4,system,Right ascension,06 16 26.898,,06 16 26.90,HATS-4.xml
+HATS-4,system,Distance errorminus,12,,-12.00,HATS-4.xml
+HD 103774,system,Right ascension,11 56 55,,11 56 55.59,HD 103774.xml
+HD 103774,system,Distance [parsec],55,,53.08,HD 103774.xml
+HD 106252,system,Right ascension,12 13 29,,12 13 29.51,HD 106252.xml
+HD 106252,system,Declination,+10 02 29,,+10 02 29.9,HD 106252.xml
+HD 106252,system,Distance [parsec],37.44,,37.40,HD 106252.xml
+HD 10647,system,Distance [parsec],17.3,,17.35,HD 10647.xml
+HD 107148,system,Distance [parsec],51.3,,51.26,HD 107148.xml
+HD 108863,system,Right ascension,12 30 19,,12 30 19.91,HD 108863.xml
+HD 108863,system,Distance [parsec],139,,138.50,HD 108863.xml
+HD 110014,system,Right ascension,12 39 14,,12 39 14.77,HD 110014.xml
+HD 113337,system,Distance [parsec],36.9,,37.42,HD 113337.xml
+HD 113337,system,Distance errorminus,0.4,,-0.76,HD 113337.xml
+HD 113337,system,Distance errorplus,0.4,,0.73,HD 113337.xml
+HD 114613,system,Distance [parsec],20.67,,20.48,HD 114613.xml
+HD 114613,system,Distance errorminus,0.13,,-0.34,HD 114613.xml
+HD 114613,system,Distance errorplus,0.13,,0.33,HD 114613.xml
+HD 114783,system,Right ascension,13 12 43,,13 12 43.78,HD 114783.xml
+V830 Tau,system,Distance errorminus,3,,-3.00,V830 Tau.xml
+HATS-15,system,Right ascension,20 44 22.20,,20 44 22.07,HATS-15.xml
+HATS-15,system,Distance errorminus,23,,-23.00,HATS-15.xml
+HATS-16,system,Right ascension,23 54 14.04,,23 54 14.09,HATS-16.xml
+HATS-16,system,Distance errorminus,74,,-74.00,HATS-16.xml
+WASP-121,system,Right ascension,07 10 24.058,,07 10 24.07,WASP-121.xml
+WASP-121,system,Declination,-39 05 50.55,,-39 05 50.6,WASP-121.xml
+WASP-121,system,Distance errorminus,90,,-90.00,WASP-121.xml
+Kepler-390,system,Right ascension,19 26 30,,19 26 30.91,Kepler-390.xml
+Kepler-390,system,Declination,+41 12 30,,+41 12 31.0,Kepler-390.xml
+Kepler-392,system,Right ascension,19 14 38,,19 14 38.58,Kepler-392.xml
+Kepler-393,system,Right ascension,19 23 58,,19 23 58.86,Kepler-393.xml
+Kepler-393,system,Declination,+45 11 31,,+45 11 32.0,Kepler-393.xml
+Kepler-395,system,Right ascension,19 34 02,,19 34 02.66,Kepler-395.xml
+Kepler-395,system,Declination,+45 08 11,,+45 08 11.8,Kepler-395.xml
+Kepler-397,system,Right ascension,19 43 34,,19 43 34.59,Kepler-397.xml
+Kepler-397,system,Declination,+42 22 49,,+42 22 49.6,Kepler-397.xml
+Kepler-399,system,Declination,+40 40 14,,+40 40 14.9,Kepler-399.xml
+Kepler-400,system,Right ascension,19 23 46,,19 23 46.68,Kepler-400.xml
+Kepler-402,system,Right ascension,19 13 28,,19 13 28.85,Kepler-402.xml
+Kepler-402,system,Declination,+43 21 16,,+43 21 16.6,Kepler-402.xml
+Kepler-404,system,Right ascension,19 05 35,,19 05 35.67,Kepler-404.xml
+Kepler-404,system,Declination,+45 20 36,,+45 20 36.7,Kepler-404.xml
+HD 148427,system,Distance [parsec],59.3,,59.28,HD 148427.xml
+HD 152079,system,Declination,-46 19 51,,-46 19 58.6,HD 152079.xml
+HD 152079,system,Distance [parsec],85.17,,83.33,HD 152079.xml
+HD 156279,system,Distance [parsec],36.6,,35.37,HD 156279.xml
+HD 158038,system,Distance [parsec],103,,114.15,HD 158038.xml
+HD 117618,system,Right ascension,13 32 25,,13 32 25.55,HD 117618.xml
+HD 117618,system,Declination,-47 16 16,,-47 16 16.9,HD 117618.xml
+HD 117618,system,Distance [parsec],38,,38.02,HD 117618.xml
+HD 125595,system,Distance [parsec],27.4,,27.45,HD 125595.xml
+HD 139357,system,Right ascension,15 35 16.19886,,15 35 16.20,HD 139357.xml
+HD 139357,system,Declination,+53 55 29.7129,,+53 55 19.7,HD 139357.xml
+HD 139357,system,Distance [parsec],118.2,,121.36,HD 139357.xml
+HD 139357,system,Distance errorminus,4.4,,-8.51,HD 139357.xml
+HD 139357,system,Distance errorplus,4.4,,7.46,HD 139357.xml
+HD 142415,system,Right ascension,15 57 40,,15 57 40.79,HD 142415.xml
+HD 142415,system,Declination,-60 12 00,,-60 12 00.9,HD 142415.xml
+HD 142415,system,Distance [parsec],34.2,,34.57,HD 142415.xml
+HD 16417,system,Distance [parsec],25.5,,25.54,HD 16417.xml
+HD 164604,system,Distance [parsec],38,,37.98,HD 164604.xml
+HD 167042,system,Distance [parsec],50.23,,50.00,HD 167042.xml
+HD 167042,system,Distance errorminus,0.66,,-1.31,HD 167042.xml
+HD 167042,system,Distance errorplus,0.66,,1.24,HD 167042.xml
+Kepler-406,system,Declination,+44 58 05,,+44 58 05.6,Kepler-406.xml
+KOI-1612,system,Right ascension,18 59 08.6,,18 59 08.68,KOI-1612.xml
+KOI-1612,system,Declination,+48 25 23,,+48 25 23.6,KOI-1612.xml
+Kepler-409,system,Declination,+46 51 09,,+46 51 10.0,Kepler-409.xml
+Kepler-412,system,Distance errorminus,36,,-36.00,Kepler-412.xml
+Kepler-421,system,Right ascension,18 53 01,,18 53 01.64,Kepler-421.xml
+Kepler-421,system,Distance errorminus,20,,-20.00,Kepler-421.xml
+Kepler-424,system,Right ascension,19 54 29,,19 54 29.97,Kepler-424.xml
+Kepler-424,system,Declination,+48 34 38,,+48 34 38.8,Kepler-424.xml
+HD 175541,system,Distance [parsec],128,,127.55,HD 175541.xml
+Kepler-1441,system,Declination,+43 07 29,,+43 07 28.5,Kepler-1441.xml
+Kepler-437,system,Distance errorminus,21,,-21.00,Kepler-437.xml
+Kepler-438,system,Right ascension,18 46 35.00,,18 46 34.99,Kepler-438.xml
+Kepler-438,system,Distance errorminus,23,,-23.00,Kepler-438.xml
+Kepler-440,system,Distance errorminus,46,,-46.00,Kepler-440.xml
+Kepler-441,system,Right ascension,18 58 16.05,,18 58 16.06,Kepler-441.xml
+Kepler-441,system,Distance errorminus,48,,-48.00,Kepler-441.xml
+Kepler-443,system,Distance errorminus,38,,-38.00,Kepler-443.xml
+Kepler-109,system,Right ascension,19 21 34.263,,19 49 48.90,Kepler-109.xml
+Kepler-109,system,Declination,+40 17 05.66,,+41 00 39.6,Kepler-109.xml
+Kepler-109,system,Distance [parsec],468.1,,426.00,Kepler-109.xml
+SAND364,system,Right ascension,08 49 56.5208,,08 49 56.82,SAND364.xml
+SAND364,system,Declination,+11 41 32.989,,+11 41 32.9,SAND364.xml
+Kepler-1465,system,Declination,+51 54 17,,+51 54 17.5,Kepler-1465.xml
+Kepler-1470,system,Declination,+39 52 59,,+39 52 59.5,Kepler-1470.xml
+Kepler-1480,system,Right ascension,19 27 59.9,,19 27 59.95,Kepler-1480.xml
+Kepler-1480,system,Declination,+49 18 07,,+49 18 06.5,Kepler-1480.xml
+KELT-17,system,Declination,+13 44 07.2,,+13 44 07.1,KELT-17.xml
+KELT-17,system,Distance errorminus,10,,-10.00,KELT-17.xml
+OGLE-TR-113,system,Distance [parsec],1500,,600.00,OGLE-TR-113.xml
+OGLE-TR-132,system,Right ascension,10 50 34,,10 50 34.72,OGLE-TR-132.xml
+OGLE-TR-132,system,Declination,-61 57 25,,-61 57 25.9,OGLE-TR-132.xml
+OGLE-TR-132,system,Distance [parsec],1500,,2500.00,OGLE-TR-132.xml
+OGLE-TR-211,system,Right ascension,10 40 15,,10 40 14.39,OGLE-TR-211.xml
+Oph 11,system,Distance [parsec],145,,125.00,Oph 11.xml
+PSR B1620-26,system,Declination,-26 31 53.769,,-26 31 53.7,PSR B1620-26.xml
+PSR J1719-1438,system,Distance errorminus,300,,-300.00,PSR J1719-1438.xml
+Kepler-1487,system,Right ascension,19 41 59.6,,19 41 59.55,Kepler-1487.xml
+Kepler-1489,system,Declination,+44 27 55,,+44 27 55.5,Kepler-1489.xml
+Kepler-1496,system,Declination,+45 21 03,,+45 21 02.5,Kepler-1496.xml
+Kepler-1499,system,Declination,+41 39 01,,+41 39 01.5,Kepler-1499.xml
+Kepler-1506,system,Declination,+41 27 53,,+41 27 52.5,Kepler-1506.xml
+WASP-18,system,Distance [parsec],100,,105.49,WASP-18.xml
+ROXs 42 B,system,Declination,-24 32 24,,-24 32 43.7,ROXs 42 B.xml
+ROXs 42 B,system,Distance [parsec],120,,135.00,ROXs 42 B.xml
+ROXs 12,system,Declination,-25 27 24,,-25 27 24.7,ROXs 12.xml
+SWEEPS-4,system,Distance [parsec],6600,,8500.00,SWEEPS-4.xml
+SWEEPS-11,system,Right ascension,17 59 03,,17 59 02.00,SWEEPS-11.xml
+TrES-1,system,Right ascension,19 04 09,,19 04 09.85,TrES-1.xml
+TrES-1,system,Declination,+36 37 57,,+36 37 57.5,TrES-1.xml
+TrES-1,system,Distance [parsec],157,,150.00,TrES-1.xml
+TrES-3,system,Distance [parsec],400,,228.00,TrES-3.xml
+TrES-4,system,Declination,+37 12 42,,+37 12 42.7,TrES-4.xml
+TrES-4,system,Distance [parsec],485,,492.00,TrES-4.xml
+TrES-5,system,Declination,+59 26 55,,+59 26 55.6,TrES-5.xml
+TYC 1422-614-1,system,Distance errorminus,181,,-181.00,TYC 1422-614-1.xml
+UScoCTIO 108,system,Declination,-18 18 43,,-18 18 44.4,UScoCTIO 108.xml
+WASP-1,system,Distance [parsec],380,,408.00,WASP-1.xml
+WASP-1,system,Distance errorminus,38,,-27.00,WASP-1.xml
+WASP-1,system,Distance errorplus,38,,27.00,WASP-1.xml
+WASP-5,system,Distance [parsec],297,,300.00,WASP-5.xml
+WASP-8,system,Distance errorminus,7,,-7.00,WASP-8.xml
+WASP-11,system,Distance errorminus,4.2,,-4.20,WASP-11.xml
+WASP-13,system,Distance errorminus,18,,-18.00,WASP-13.xml
+WASP-14,system,Distance errorminus,20,,-20.00,WASP-14.xml
+WASP-17,system,Distance errorminus,60,,-60.00,WASP-17.xml
+Kepler-1532,system,Declination,+41 11 53,,+41 11 53.5,Kepler-1532.xml
+WASP-20,system,Right ascension,00 20 38.5361,,00 20 38.53,WASP-20.xml
+WASP-20,system,Distance errorminus,20,,-20.00,WASP-20.xml
+WASP-21,system,Distance [parsec],230,,242.00,WASP-21.xml
+WASP-28,system,Declination,-01 34 57,,-01 34 48.2,WASP-28.xml
+WASP-28,system,Distance errorminus,70,,-70.00,WASP-28.xml
+WASP-31,system,Distance [parsec],400,,360.00,WASP-31.xml
+WASP-19,system,Distance errorminus,60,,-60.00,WASP-19.xml
+WASP-36,system,Right ascension,08 46 19.298,,08 46 19.30,WASP-36.xml
+WASP-42,system,Distance errorminus,40,,-40.00,WASP-42.xml
+WASP-43,system,Distance errorminus,20,,-20.00,WASP-43.xml
+WASP-47,system,Distance errorminus,30,,-30.00,WASP-47.xml
+WASP-52,system,Declination,+08 45 41,,+08 45 40.5,WASP-52.xml
+WASP-52,system,Distance errorminus,20,,-20.00,WASP-52.xml
+WASP-54,system,Distance errorminus,30,,-30.00,WASP-54.xml
+WASP-56,system,Right ascension,12 13 27,,12 13 27.91,WASP-56.xml
+WASP-56,system,Distance errorminus,40,,-40.00,WASP-56.xml
+WASP-57,system,Right ascension,14 55 16,,14 55 16.82,WASP-57.xml
+WASP-57,system,Declination,-02 03 27,,-02 03 27.6,WASP-57.xml
+WASP-57,system,Distance errorminus,80,,-80.00,WASP-57.xml
+Kepler-1551,system,Declination,+39 54 29,,+39 54 28.5,Kepler-1551.xml
+Kepler-1565,system,Declination,+40 48 25,,+40 48 24.5,Kepler-1565.xml
+Kepler-1567,system,Declination,+40 17 31,,+40 17 30.5,Kepler-1567.xml
+WASP-58,system,Distance errorminus,50,,-50.00,WASP-58.xml
+WASP-60,system,Distance errorminus,60,,-60.00,WASP-60.xml
+WASP-61,system,Declination,-26 03 15.0,,-26 03 14.9,WASP-61.xml
+WASP-63,system,Right ascension,06 17 20.75,,06 17 20.74,WASP-63.xml
+WASP-63,system,Declination,-38 19 23.8,,-38 19 23.7,WASP-63.xml
+WASP-64,system,Distance errorminus,90,,-90.00,WASP-64.xml
+WASP-65,system,Right ascension,08 53 28,,08 53 17.83,WASP-65.xml
+WASP-65,system,Distance errorminus,50,,-50.00,WASP-65.xml
+WASP-68,system,Declination,-19 18 52,,-19 18 52.8,WASP-68.xml
+WASP-69,system,Distance errorminus,10,,-10.00,WASP-69.xml
+WASP-71,system,Distance [parsec],200,,345.00,WASP-71.xml
+WASP-72,system,Right ascension,02 44 09,,02 44 09.60,WASP-72.xml
+WASP-72,system,Distance errorminus,60,,-60.00,WASP-72.xml
+WASP-75,system,Distance errorminus,70,,-70.00,WASP-75.xml
+WASP-80,system,Declination,-02 08 44,,-02 08 39.1,WASP-80.xml
+WASP-80,system,Distance errorminus,20,,-20.00,WASP-80.xml
+WASP-84,system,Distance errorminus,20,,-20.00,WASP-84.xml
+WASP-98,system,Declination,-34 19 41,,-34 19 41.5,WASP-98.xml
+WASP-103,system,Right ascension,16 37 15,,16 37 15.57,WASP-103.xml
+WASP-103,system,Distance errorminus,35,,-35.00,WASP-103.xml
+WASP-104,system,Right ascension,10 42 24,,10 42 24.58,WASP-104.xml
+WASP-104,system,Distance errorminus,10,,-10.00,WASP-104.xml
+Kepler-1572,system,Declination,+46 43 21,,+46 43 21.5,Kepler-1572.xml
+Kepler-1599,system,Declination,+41 09 05,,+41 09 04.5,Kepler-1599.xml
+Kepler-533,system,Declination,+48 49 31,,+48 49 30.5,Kepler-533.xml
+Kepler-655,system,Declination,+46 50 35,,+46 50 35.5,Kepler-655.xml
+Kepler-202,system,Right ascension,18 51 53,,18 51 53.62,Kepler-202.xml
+Kepler-535,system,Declination,+49 41 47,,+49 41 46.5,Kepler-535.xml
+Kepler-537,system,Declination,+51 16 37,,+51 16 37.5,Kepler-537.xml
+KELT-8,system,Distance errorminus,9,,-9.00,KELT-8.xml
+EPIC 201637175,system,Right ascension,11 17 55.856,,11 17 55.88,EPIC 201637175.xml
+EPIC 201637175,system,Declination,+02 37 06.79,,+02 37 08.7,EPIC 201637175.xml
+EPIC 201637175,system,Distance errorminus,50,,-50.00,EPIC 201637175.xml
+GJ 1132,system,Right ascension,10 14 51.846,,10 14 51.78,GJ 1132.xml
+GJ 1132,system,Declination,-47 09 24.47,,-47 09 24.2,GJ 1132.xml
+GJ 1132,system,Distance errorminus,0.24,,-0.24,GJ 1132.xml
+EPIC 203771098,system,Distance errorminus,17,,-17.00,EPIC 203771098.xml
+Kepler-692,system,Declination,+40 09 13,,+40 09 13.5,Kepler-692.xml
+WASP-74,system,Declination,-01 04 32.6,,-01 04 32.4,WASP-74.xml
+WASP-74,system,Distance errorminus,20,,-20.00,WASP-74.xml
+WASP-83,system,Right ascension,14 40 36.51,,12 40 36.50,WASP-83.xml
+WASP-83,system,Declination,-19 17 03.4,,-19 17 03.3,WASP-83.xml
+WASP-83,system,Distance errorminus,50,,-50.00,WASP-83.xml
+WASP-89,system,Declination,-18 58 16.1,,-18 58 16.0,WASP-89.xml
+HD 180902,system,Distance [parsec],110,,114.55,HD 180902.xml
+HD 190647,system,Distance [parsec],54.2,,54.23,HD 190647.xml
+HIP 107773,system,Right ascension,21 50 00.12563,,21 50 00.12,HIP 107773.xml
+KELT-7,system,Distance errorminus,8,,-8.00,KELT-7.xml
+HD 196050,system,Right ascension,20 37 51,,20 37 51.71,HD 196050.xml
+HD 197037,system,Distance [parsec],32.3,,32.83,HD 197037.xml
+HD 197037,system,Distance errorminus,0.4,,-0.66,HD 197037.xml
+HD 197037,system,Distance errorplus,0.4,,0.63,HD 197037.xml
+HD 19994,system,Declination,-01 11 45,,-01 11 46.0,HD 19994.xml
+HD 206610,system,Distance [parsec],194,,170.07,HD 206610.xml
+HD 208527,system,Declination,+21 14 23,,+21 14 23.5,HD 208527.xml
+HD 208527,system,Distance [parsec],320.2,,352.11,HD 208527.xml
+HD 210702,system,Distance [parsec],54.9,,55.93,HD 210702.xml
+HD 210702,system,Distance errorminus,1.2,,-2.41,HD 210702.xml
+HD 210702,system,Distance errorplus,1.2,,2.22,HD 210702.xml
+HD 216437,system,Distance [parsec],26.5,,26.52,HD 216437.xml
+HD 219077,system,Distance [parsec],29,,29.20,HD 219077.xml
+HD 220773,system,Distance [parsec],49,,48.43,HD 220773.xml
+HD 224693,system,Distance [parsec],94,,94.07,HD 224693.xml
+HD 11755,system,Distance errorminus,22.7,,-22.70,HD 11755.xml
+HD 12648,system,Right ascension,02 18 59.654,,02 18 59.68,HD 12648.xml
+HD 12648,system,Declination,+85 44 10.22,,+85 44 10.1,HD 12648.xml
+HD 12648,system,Distance errorminus,9.0,,-9.00,HD 12648.xml
+HD 24064,system,Right ascension,03 56 36.297,,03 56 36.30,HD 24064.xml
+HD 24064,system,Distance errorminus,31.2,,-31.20,HD 24064.xml
+HD 155233,system,Right ascension,17 11 04.36474,,17 11 04.37,HD 155233.xml
+HD 155233,system,Distance [parsec],75.1,,75.13,HD 155233.xml
+HD 155233,system,Distance errorminus,3.3,,-3.33,HD 155233.xml
+HD 155233,system,Distance errorplus,3.3,,3.33,HD 155233.xml
+HAT-P-20,system,Declination,+24 20 11,,+24 20 11.9,HAT-P-20.xml
+HAT-P-49,system,Declination,-26 41 34,,+26 41 33.5,HAT-P-49.xml
+HAT-P-49,system,Distance errorminus,13,,-13.00,HAT-P-49.xml
+HD 118203,system,Right ascension,13 34 02,,13 34 02.54,HD 118203.xml
+HD 118203,system,Declination,+53 43 42,,+53 43 42.7,HD 118203.xml
+HD 118203,system,Distance [parsec],88.6,,88.57,HD 118203.xml
+HD 143361,system,Distance [parsec],59.35,,65.66,HD 143361.xml
+HD 192699,system,Distance [parsec],65.6,,67.39,HD 192699.xml
+HD 192699,system,Distance errorminus,2.5,,-4.40,HD 192699.xml
+HD 192699,system,Distance errorplus,2.5,,3.89,HD 192699.xml
+EPIC 201629650,system,Distance errorminus,18,,-18.00,EPIC 201629650.xml
+Kepler-695,system,Declination,+40 49 21,,+40 49 20.5,Kepler-695.xml
+HD 28185,system,Declination,-10 33 02,,-10 33 03.0,HD 28185.xml
+HD 28185,system,Distance [parsec],39.4,,39.60,HD 28185.xml
+HD 2952,system,Declination,+54 53 41,,+54 53 41.9,HD 2952.xml
+HD 2952,system,Distance [parsec],115,,115.21,HD 2952.xml
+HD 31253,system,Distance [parsec],50.3,,53.82,HD 31253.xml
+HD 31253,system,Distance errorminus,1.6,,-3.45,HD 31253.xml
+HD 31253,system,Distance errorplus,1.6,,3.06,HD 31253.xml
+HD 33283,system,Declination,-26 47 50,,-26 47 50.9,HD 33283.xml
+HD 33283,system,Distance [parsec],86,,86.88,HD 33283.xml
+HD 4313,system,Distance [parsec],137,,131.41,HD 4313.xml
+HD 49674,system,Right ascension,06 51 30,,06 51 30.52,HD 49674.xml
+HD 49674,system,Declination,+40 52 03,,+40 52 03.9,HD 49674.xml
+HD 49674,system,Distance [parsec],40.7,,40.73,HD 49674.xml
+HD 52265,system,Declination,-05 22 01,,-05 22 01.8,HD 52265.xml
+HD 52265,system,Distance [parsec],28.1,,28.07,HD 52265.xml
+HD 63454,system,Right ascension,07 39 21,,07 39 21.85,HD 63454.xml
+Kepler-603,system,Declination,+42 17 27,,+42 17 27.5,Kepler-603.xml
+Kepler-604,system,Declination,+42 37 35,,+42 37 34.5,Kepler-604.xml
+Kepler-729,system,Declination,+45 24 51,,+45 24 51.5,Kepler-729.xml
+Kepler-734,system,Declination,+46 01 39,,+46 01 38.5,Kepler-734.xml
+Kepler-742,system,Declination,+46 47 23,,+46 47 22.5,Kepler-742.xml
+HD 6718,system,Distance [parsec],55.9,,54.90,HD 6718.xml
+HD 73256,system,Declination,-30 02 15,,-30 02 15.5,HD 73256.xml
+HD 73256,system,Distance [parsec],36.5,,36.52,HD 73256.xml
+HD 76700,system,Right ascension,08 53 55,,08 53 55.51,HD 76700.xml
+HD 76700,system,Declination,-66 48 03,,-66 48 03.6,HD 76700.xml
+HD 80606,system,Right ascension,09 22 37,,09 22 37.57,HD 80606.xml
+HD 80606,system,Distance [parsec],58.4,,29.04,HD 80606.xml
+HD 86264,system,Distance [parsec],72.6,,72.57,HD 86264.xml
+HD 8673,system,Right ascension,01 26 08,,01 26 08.78,HD 8673.xml
+HD 8673,system,Declination,+34 34 46,,+34 34 46.9,HD 8673.xml
+HD 8673,system,Distance [parsec],36.1,,38.26,HD 8673.xml
+HD 8673,system,Distance errorminus,0.5,,-1.19,HD 8673.xml
+HD 8673,system,Distance errorplus,0.5,,1.12,HD 8673.xml
+HD 89307,system,Declination,+12 37 15,,+12 37 16.0,HD 89307.xml
+HD 89307,system,Distance [parsec],30.9,,30.88,HD 89307.xml
+HD 92788,system,Right ascension,10 42 48,,10 42 48.53,HD 92788.xml
+HD 92788,system,Declination,-02 11 01,,-02 11 01.5,HD 92788.xml
+HD 92788,system,Distance [parsec],32.82,,32.32,HD 92788.xml
+HD 95089,system,Distance [parsec],139,,149.03,HD 95089.xml
+HD 96127,system,Distance [parsec],483,,221.24,HD 96127.xml
+HD 98649,system,Distance [parsec],40.3,,42.77,HD 98649.xml
+HIP 75458,system,Right ascension,15 24 55,,15 24 55.77,HIP 75458.xml
+HIP 75458,system,Declination,+58 57 57,,+58 57 57.8,HIP 75458.xml
+HIP 75458,system,Distance [parsec],31.5,,31.33,HIP 75458.xml
+Kepler-618,system,Right ascension,19 04 59.9,,19 04 59.96,Kepler-618.xml
+HD 141399,system,Right ascension,15 46 53,,15 46 53.81,HD 141399.xml
+HD 141399,system,Declination,+46 59 11,,+46 59 10.5,HD 141399.xml
+HD 141399,system,Distance [parsec],36.17,,36.20,HD 141399.xml
+EPIC 206318379,system,Distance errorminus,8,,-8.00,EPIC 206318379.xml
+alf Tau,system,Right ascension,04 35 55.20,,04 35 55.24,alf Tau.xml
+alf Tau,system,Declination,+16 30 35.1,,+16 30 33.5,alf Tau.xml
+alf Tau,system,Distance errorminus,0.32,,-0.32,alf Tau.xml
+HATS-8,system,Right ascension,19 39 46.08,,19 39 46.02,HATS-8.xml
+HATS-8,system,Distance errorminus,48,,-48.00,HATS-8.xml
+51 Eri,system,Distance errorminus,0.3,,-0.30,51 Eri.xml
+EPIC 206011691,system,Distance errorminus,6,,-6.00,EPIC 206011691.xml
+Kepler-757,system,Declination,+41 23 11,,+41 23 11.5,Kepler-757.xml
+KELT-3,system,Right ascension,09 54 34.3880,,09 54 34.40,KELT-3.xml
+Kapteyn,system,Distance [parsec],3.91,,3.92,Kapteyn.xml
+Kepler-400,system,Right ascension,19 23 46,,19 47 15.29,Kepler-400.xml
+Kepler-400,system,Declination,+40 28 48,,+47 31 35.8,Kepler-400.xml
+Kepler-400,system,Distance [parsec],716.62,,2700.00,Kepler-400.xml
+Kepler-430,system,Right ascension,19 31 14.07,,19 00 57.81,Kepler-430.xml
+Kepler-430,system,Declination,+49 34 46.0,,+46 40 05.7,Kepler-430.xml
+Kepler-434,system,Declination,+42 45 44.08,,+42 55 44.1,Kepler-434.xml
+Kepler-434,system,Distance errorminus,120,,-120.00,Kepler-434.xml
+Kepler-439,system,Distance errorminus,38,,-38.00,Kepler-439.xml
+Kepler-442,system,Distance errorminus,22,,-22.00,Kepler-442.xml
